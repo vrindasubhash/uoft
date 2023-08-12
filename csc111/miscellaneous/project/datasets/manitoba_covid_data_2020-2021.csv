@@ -1,0 +1,1933 @@
+Date,RHA,Daily_Cases,Cumulative_Cases,Active_Cases,Recoveries,Deaths,ObjectId
+3/13/20,All,2,2,2,0,0,1
+3/13/20,Interlake-Eastern,0,0,0,0,0,2
+3/13/20,Northern,0,0,0,0,0,3
+3/13/20,Prairie Mountain Health,0,0,0,0,0,4
+3/13/20,Southern Health-Santé Sud,0,0,0,0,0,5
+3/13/20,Winnipeg,2,2,2,0,0,6
+3/14/20,All,1,3,3,0,0,7
+3/14/20,Interlake-Eastern,0,0,0,0,0,8
+3/14/20,Northern,0,0,0,0,0,9
+3/14/20,Prairie Mountain Health,0,0,0,0,0,10
+3/14/20,Southern Health-Santé Sud,0,0,0,0,0,11
+3/14/20,Winnipeg,1,3,3,0,0,12
+3/15/20,All,0,3,3,0,0,13
+3/15/20,Interlake-Eastern,0,0,0,0,0,14
+3/15/20,Northern,0,0,0,0,0,15
+3/15/20,Prairie Mountain Health,0,0,0,0,0,16
+3/15/20,Southern Health-Santé Sud,0,0,0,0,0,17
+3/15/20,Winnipeg,0,3,3,0,0,18
+3/16/20,All,3,6,6,0,0,19
+3/16/20,Interlake-Eastern,1,1,1,0,0,20
+3/16/20,Northern,0,0,0,0,0,21
+3/16/20,Prairie Mountain Health,0,0,0,0,0,22
+3/16/20,Southern Health-Santé Sud,0,0,0,0,0,23
+3/16/20,Winnipeg,2,5,5,0,0,24
+3/17/20,All,1,7,7,0,0,25
+3/17/20,Interlake-Eastern,0,1,1,0,0,26
+3/17/20,Northern,0,0,0,0,0,27
+3/17/20,Prairie Mountain Health,0,0,0,0,0,28
+3/17/20,Southern Health-Santé Sud,0,0,0,0,0,29
+3/17/20,Winnipeg,1,6,6,0,0,30
+3/18/20,All,7,14,14,0,0,31
+3/18/20,Interlake-Eastern,0,1,1,0,0,32
+3/18/20,Northern,0,0,0,0,0,33
+3/18/20,Prairie Mountain Health,0,0,0,0,0,34
+3/18/20,Southern Health-Santé Sud,2,2,2,0,0,35
+3/18/20,Winnipeg,5,11,11,0,0,36
+3/19/20,All,1,15,14,1,0,37
+3/19/20,Interlake-Eastern,0,1,1,0,0,38
+3/19/20,Northern,0,0,0,0,0,39
+3/19/20,Prairie Mountain Health,0,0,0,1,0,40
+3/19/20,Southern Health-Santé Sud,0,2,2,0,0,41
+3/19/20,Winnipeg,1,12,12,0,0,42
+3/20/20,All,1,16,15,1,0,43
+3/20/20,Interlake-Eastern,0,1,1,0,0,44
+3/20/20,Northern,0,0,0,0,0,45
+3/20/20,Prairie Mountain Health,0,0,0,1,0,46
+3/20/20,Southern Health-Santé Sud,0,2,2,0,0,47
+3/20/20,Winnipeg,1,13,13,0,0,48
+3/21/20,All,0,16,15,1,0,49
+3/21/20,Interlake-Eastern,0,1,1,0,0,50
+3/21/20,Northern,0,0,0,0,0,51
+3/21/20,Prairie Mountain Health,0,0,0,1,0,52
+3/21/20,Southern Health-Santé Sud,0,2,2,0,0,53
+3/21/20,Winnipeg,0,13,13,0,0,54
+3/22/20,All,1,17,16,1,0,55
+3/22/20,Interlake-Eastern,0,1,1,0,0,56
+3/22/20,Northern,0,0,0,0,0,57
+3/22/20,Prairie Mountain Health,0,0,0,1,0,58
+3/22/20,Southern Health-Santé Sud,0,2,2,0,0,59
+3/22/20,Winnipeg,1,14,14,0,0,60
+3/23/20,All,3,20,18,2,0,61
+3/23/20,Interlake-Eastern,0,1,1,0,0,62
+3/23/20,Northern,0,0,0,0,0,63
+3/23/20,Prairie Mountain Health,0,0,0,1,0,64
+3/23/20,Southern Health-Santé Sud,0,2,2,0,0,65
+3/23/20,Winnipeg,3,17,16,1,0,66
+3/24/20,All,1,21,19,2,0,67
+3/24/20,Interlake-Eastern,0,1,1,0,0,68
+3/24/20,Northern,0,0,0,0,0,69
+3/24/20,Prairie Mountain Health,1,1,0,1,0,70
+3/24/20,Southern Health-Santé Sud,0,2,2,0,0,71
+3/24/20,Winnipeg,0,17,16,1,0,72
+3/25/20,All,6,27,23,4,0,73
+3/25/20,Interlake-Eastern,0,1,1,0,0,74
+3/25/20,Northern,0,0,0,0,0,75
+3/25/20,Prairie Mountain Health,0,1,0,1,0,76
+3/25/20,Southern Health-Santé Sud,1,3,3,0,0,77
+3/25/20,Winnipeg,5,22,19,3,0,78
+3/26/20,All,9,36,30,5,1,79
+3/26/20,Interlake-Eastern,0,1,1,0,0,80
+3/26/20,Northern,0,0,0,0,0,81
+3/26/20,Prairie Mountain Health,2,3,2,1,0,82
+3/26/20,Southern Health-Santé Sud,1,4,4,0,0,83
+3/26/20,Winnipeg,6,28,23,4,1,84
+3/27/20,All,27,63,55,7,1,85
+3/27/20,Interlake-Eastern,0,1,1,0,0,86
+3/27/20,Northern,0,0,0,0,0,87
+3/27/20,Prairie Mountain Health,0,3,2,1,0,88
+3/27/20,Southern Health-Santé Sud,1,5,3,2,0,89
+3/27/20,Winnipeg,26,54,49,4,1,90
+3/28/20,All,10,73,63,9,1,91
+3/28/20,Interlake-Eastern,2,3,3,0,0,92
+3/28/20,Northern,0,0,0,0,0,93
+3/28/20,Prairie Mountain Health,4,7,6,1,0,94
+3/28/20,Southern Health-Santé Sud,0,5,2,3,0,95
+3/28/20,Winnipeg,4,58,52,5,1,96
+3/29/20,All,23,96,85,10,1,97
+3/29/20,Interlake-Eastern,1,4,4,0,0,98
+3/29/20,Northern,1,1,1,0,0,99
+3/29/20,Prairie Mountain Health,2,9,8,1,0,100
+3/29/20,Southern Health-Santé Sud,1,6,3,3,0,101
+3/29/20,Winnipeg,18,76,69,6,1,102
+3/30/20,All,9,105,91,13,1,103
+3/30/20,Interlake-Eastern,0,4,4,0,0,104
+3/30/20,Northern,0,1,1,0,0,105
+3/30/20,Prairie Mountain Health,0,9,8,1,0,106
+3/30/20,Southern Health-Santé Sud,0,6,2,4,0,107
+3/30/20,Winnipeg,9,85,76,8,1,108
+3/31/20,All,27,132,114,17,1,109
+3/31/20,Interlake-Eastern,1,5,5,0,0,110
+3/31/20,Northern,0,1,1,0,0,111
+3/31/20,Prairie Mountain Health,1,10,9,1,0,112
+3/31/20,Southern Health-Santé Sud,2,8,4,4,0,113
+3/31/20,Winnipeg,23,108,95,12,1,114
+4/1/20,All,33,165,143,21,1,115
+4/1/20,Interlake-Eastern,3,8,8,0,0,116
+4/1/20,Northern,1,2,1,1,0,117
+4/1/20,Prairie Mountain Health,0,10,8,2,0,118
+4/1/20,Southern Health-Santé Sud,7,15,11,4,0,119
+4/1/20,Winnipeg,22,130,115,14,1,120
+4/2/20,All,16,181,154,25,2,121
+4/2/20,Interlake-Eastern,1,9,9,0,0,122
+4/2/20,Northern,0,2,1,1,0,123
+4/2/20,Prairie Mountain Health,1,11,9,2,0,124
+4/2/20,Southern Health-Santé Sud,4,19,15,4,0,125
+4/2/20,Winnipeg,10,140,120,18,2,126
+4/3/20,All,10,191,152,37,2,127
+4/3/20,Interlake-Eastern,2,11,10,1,0,128
+4/3/20,Northern,0,2,1,1,0,129
+4/3/20,Prairie Mountain Health,0,11,7,4,0,130
+4/3/20,Southern Health-Santé Sud,1,20,15,5,0,131
+4/3/20,Winnipeg,7,147,119,26,2,132
+4/4/20,All,11,202,162,38,2,133
+4/4/20,Interlake-Eastern,0,11,10,1,0,134
+4/4/20,Northern,0,2,1,1,0,135
+4/4/20,Prairie Mountain Health,0,11,7,4,0,136
+4/4/20,Southern Health-Santé Sud,4,24,18,6,0,137
+4/4/20,Winnipeg,7,154,126,26,2,138
+4/5/20,All,1,203,159,42,2,139
+4/5/20,Interlake-Eastern,0,11,10,1,0,140
+4/5/20,Northern,0,2,1,1,0,141
+4/5/20,Prairie Mountain Health,0,11,6,5,0,142
+4/5/20,Southern Health-Santé Sud,0,24,18,6,0,143
+4/5/20,Winnipeg,1,155,124,29,2,144
+4/6/20,All,13,216,140,73,3,145
+4/6/20,Interlake-Eastern,0,11,10,1,0,146
+4/6/20,Northern,1,3,2,1,0,147
+4/6/20,Prairie Mountain Health,0,11,4,7,0,148
+4/6/20,Southern Health-Santé Sud,0,24,18,6,0,149
+4/6/20,Winnipeg,12,167,106,58,3,150
+4/7/20,All,3,219,118,98,3,151
+4/7/20,Interlake-Eastern,2,13,12,1,0,152
+4/7/20,Northern,0,3,0,3,0,153
+4/7/20,Prairie Mountain Health,0,11,4,7,0,154
+4/7/20,Southern Health-Santé Sud,0,24,14,10,0,155
+4/7/20,Winnipeg,1,168,88,77,3,156
+4/8/20,All,2,221,102,116,3,157
+4/8/20,Interlake-Eastern,1,14,11,3,0,158
+4/8/20,Northern,0,3,0,3,0,159
+4/8/20,Prairie Mountain Health,0,11,4,7,0,160
+4/8/20,Southern Health-Santé Sud,0,24,14,10,0,161
+4/8/20,Winnipeg,1,169,73,93,3,162
+4/9/20,All,6,227,93,130,4,163
+4/9/20,Interlake-Eastern,2,16,12,4,0,164
+4/9/20,Northern,0,3,0,3,0,165
+4/9/20,Prairie Mountain Health,0,11,3,8,0,166
+4/9/20,Southern Health-Santé Sud,0,24,6,18,0,167
+4/9/20,Winnipeg,4,173,72,97,4,168
+4/10/20,All,12,239,94,141,4,169
+4/10/20,Interlake-Eastern,1,17,13,4,0,170
+4/10/20,Northern,0,3,0,3,0,171
+4/10/20,Prairie Mountain Health,0,11,2,9,0,172
+4/10/20,Southern Health-Santé Sud,3,27,4,23,0,173
+4/10/20,Winnipeg,8,181,75,102,4,174
+4/11/20,All,0,239,91,144,4,175
+4/11/20,Interlake-Eastern,0,17,13,4,0,176
+4/11/20,Northern,0,3,0,3,0,177
+4/11/20,Prairie Mountain Health,0,11,2,9,0,178
+4/11/20,Southern Health-Santé Sud,0,27,3,24,0,179
+4/11/20,Winnipeg,0,181,73,104,4,180
+4/12/20,All,2,241,88,149,4,181
+4/12/20,Interlake-Eastern,0,17,12,5,0,182
+4/12/20,Northern,0,3,0,3,0,183
+4/12/20,Prairie Mountain Health,0,11,2,9,0,184
+4/12/20,Southern Health-Santé Sud,1,28,4,24,0,185
+4/12/20,Winnipeg,1,182,70,108,4,186
+4/13/20,All,0,241,80,156,5,187
+4/13/20,Interlake-Eastern,0,17,11,6,0,188
+4/13/20,Northern,0,3,0,3,0,189
+4/13/20,Prairie Mountain Health,0,11,1,9,1,190
+4/13/20,Southern Health-Santé Sud,0,28,3,25,0,191
+4/13/20,Winnipeg,0,182,65,113,4,192
+4/14/20,All,3,244,67,172,5,193
+4/14/20,Interlake-Eastern,1,18,8,10,0,194
+4/14/20,Northern,0,3,0,3,0,195
+4/14/20,Prairie Mountain Health,1,12,2,9,1,196
+4/14/20,Southern Health-Santé Sud,0,28,2,26,0,197
+4/14/20,Winnipeg,1,183,55,124,4,198
+4/15/20,All,4,248,59,184,5,199
+4/15/20,Interlake-Eastern,1,19,7,12,0,200
+4/15/20,Northern,0,3,0,3,0,201
+4/15/20,Prairie Mountain Health,0,12,2,9,1,202
+4/15/20,Southern Health-Santé Sud,0,28,2,26,0,203
+4/15/20,Winnipeg,3,186,48,134,4,204
+4/16/20,All,1,249,48,196,5,205
+4/16/20,Interlake-Eastern,0,19,6,13,0,206
+4/16/20,Northern,0,3,0,3,0,207
+4/16/20,Prairie Mountain Health,0,12,0,11,1,208
+4/16/20,Southern Health-Santé Sud,0,28,2,26,0,209
+4/16/20,Winnipeg,1,187,40,143,4,210
+4/17/20,All,5,254,42,207,5,211
+4/17/20,Interlake-Eastern,0,19,4,15,0,212
+4/17/20,Northern,0,3,0,3,0,213
+4/17/20,Prairie Mountain Health,1,13,1,11,1,214
+4/17/20,Southern Health-Santé Sud,0,28,2,26,0,215
+4/17/20,Winnipeg,4,191,35,152,4,216
+4/18/20,All,2,256,43,208,5,217
+4/18/20,Interlake-Eastern,0,19,3,16,0,218
+4/18/20,Northern,0,3,0,3,0,219
+4/18/20,Prairie Mountain Health,0,13,1,11,1,220
+4/18/20,Southern Health-Santé Sud,0,28,2,26,0,221
+4/18/20,Winnipeg,2,193,37,152,4,222
+4/19/20,All,1,257,44,208,5,223
+4/19/20,Interlake-Eastern,0,19,3,16,0,224
+4/19/20,Northern,0,3,0,3,0,225
+4/19/20,Prairie Mountain Health,0,13,1,11,1,226
+4/19/20,Southern Health-Santé Sud,0,28,2,26,0,227
+4/19/20,Winnipeg,1,194,38,152,4,228
+4/20/20,All,1,258,38,214,6,229
+4/20/20,Interlake-Eastern,0,19,3,16,0,230
+4/20/20,Northern,0,3,0,3,0,231
+4/20/20,Prairie Mountain Health,0,13,1,11,1,232
+4/20/20,Southern Health-Santé Sud,0,28,2,26,0,233
+4/20/20,Winnipeg,1,195,32,158,5,234
+4/21/20,All,0,258,29,223,6,235
+4/21/20,Interlake-Eastern,0,19,2,17,0,236
+4/21/20,Northern,0,3,0,3,0,237
+4/21/20,Prairie Mountain Health,0,13,1,11,1,238
+4/21/20,Southern Health-Santé Sud,0,28,2,26,0,239
+4/21/20,Winnipeg,0,195,24,166,5,240
+4/22/20,All,3,261,25,230,6,241
+4/22/20,Interlake-Eastern,0,19,2,17,0,242
+4/22/20,Northern,0,3,0,3,0,243
+4/22/20,Prairie Mountain Health,0,13,1,11,1,244
+4/22/20,Southern Health-Santé Sud,0,28,2,26,0,245
+4/22/20,Winnipeg,3,198,20,173,5,246
+4/23/20,All,2,263,26,231,6,247
+4/23/20,Interlake-Eastern,0,19,2,17,0,248
+4/23/20,Northern,0,3,0,3,0,249
+4/23/20,Prairie Mountain Health,0,13,1,11,1,250
+4/23/20,Southern Health-Santé Sud,1,29,3,26,0,251
+4/23/20,Winnipeg,1,199,20,174,5,252
+4/24/20,All,3,266,23,237,6,253
+4/24/20,Interlake-Eastern,0,19,1,18,0,254
+4/24/20,Northern,0,3,0,3,0,255
+4/24/20,Prairie Mountain Health,1,14,1,12,1,256
+4/24/20,Southern Health-Santé Sud,0,29,2,27,0,257
+4/24/20,Winnipeg,2,201,19,177,5,258
+4/25/20,All,4,270,26,238,6,259
+4/25/20,Interlake-Eastern,1,20,2,18,0,260
+4/25/20,Northern,0,3,0,3,0,261
+4/25/20,Prairie Mountain Health,0,14,1,12,1,262
+4/25/20,Southern Health-Santé Sud,1,30,3,27,0,263
+4/25/20,Winnipeg,2,203,20,178,5,264
+4/26/20,All,1,271,27,238,6,265
+4/26/20,Interlake-Eastern,0,20,2,18,0,266
+4/26/20,Northern,0,3,0,3,0,267
+4/26/20,Prairie Mountain Health,0,14,1,12,1,268
+4/26/20,Southern Health-Santé Sud,0,30,3,27,0,269
+4/26/20,Winnipeg,1,204,21,178,5,270
+4/27/20,All,2,273,28,239,6,271
+4/27/20,Interlake-Eastern,0,20,2,18,0,272
+4/27/20,Northern,0,3,0,3,0,273
+4/27/20,Prairie Mountain Health,1,15,2,12,1,274
+4/27/20,Southern Health-Santé Sud,0,30,3,27,0,275
+4/27/20,Winnipeg,1,205,21,179,5,276
+4/28/20,All,0,273,22,245,6,277
+4/28/20,Interlake-Eastern,0,20,2,18,0,278
+4/28/20,Northern,0,3,0,3,0,279
+4/28/20,Prairie Mountain Health,0,15,1,13,1,280
+4/28/20,Southern Health-Santé Sud,0,30,3,27,0,281
+4/28/20,Winnipeg,0,205,16,184,5,282
+4/29/20,All,1,274,21,247,6,283
+4/29/20,Interlake-Eastern,0,20,2,18,0,284
+4/29/20,Northern,0,3,0,3,0,285
+4/29/20,Prairie Mountain Health,0,15,1,13,1,286
+4/29/20,Southern Health-Santé Sud,0,30,3,27,0,287
+4/29/20,Winnipeg,1,206,15,186,5,288
+4/30/20,All,4,278,23,249,6,289
+4/30/20,Interlake-Eastern,0,20,2,18,0,290
+4/30/20,Northern,0,3,0,3,0,291
+4/30/20,Prairie Mountain Health,2,17,3,13,1,292
+4/30/20,Southern Health-Santé Sud,0,30,2,28,0,293
+4/30/20,Winnipeg,2,208,16,187,5,294
+5/1/20,All,1,279,22,251,6,295
+5/1/20,Interlake-Eastern,0,20,1,19,0,296
+5/1/20,Northern,0,3,0,3,0,297
+5/1/20,Prairie Mountain Health,0,17,3,13,1,298
+5/1/20,Southern Health-Santé Sud,0,30,2,28,0,299
+5/1/20,Winnipeg,1,209,16,188,5,300
+5/2/20,All,1,280,23,251,6,301
+5/2/20,Interlake-Eastern,0,20,1,19,0,302
+5/2/20,Northern,0,3,0,3,0,303
+5/2/20,Prairie Mountain Health,1,18,4,13,1,304
+5/2/20,Southern Health-Santé Sud,0,30,2,28,0,305
+5/2/20,Winnipeg,0,209,16,188,5,306
+5/3/20,All,0,280,22,252,6,307
+5/3/20,Interlake-Eastern,0,20,1,19,0,308
+5/3/20,Northern,0,3,0,3,0,309
+5/3/20,Prairie Mountain Health,0,18,4,13,1,310
+5/3/20,Southern Health-Santé Sud,0,30,1,29,0,311
+5/3/20,Winnipeg,0,209,16,188,5,312
+5/4/20,All,1,281,19,255,7,313
+5/4/20,Interlake-Eastern,0,20,1,19,0,314
+5/4/20,Northern,0,3,0,3,0,315
+5/4/20,Prairie Mountain Health,1,19,5,13,1,316
+5/4/20,Southern Health-Santé Sud,0,30,0,29,1,317
+5/4/20,Winnipeg,0,209,13,191,5,318
+5/5/20,All,2,283,20,256,7,319
+5/5/20,Interlake-Eastern,0,20,1,19,0,320
+5/5/20,Northern,0,3,0,3,0,321
+5/5/20,Prairie Mountain Health,2,21,7,13,1,322
+5/5/20,Southern Health-Santé Sud,0,30,0,29,1,323
+5/5/20,Winnipeg,0,209,12,192,5,324
+5/6/20,All,0,283,16,260,7,325
+5/6/20,Interlake-Eastern,0,20,0,20,0,326
+5/6/20,Northern,0,3,0,3,0,327
+5/6/20,Prairie Mountain Health,0,21,7,13,1,328
+5/6/20,Southern Health-Santé Sud,0,30,0,29,1,329
+5/6/20,Winnipeg,0,209,9,195,5,330
+5/7/20,All,1,284,16,261,7,331
+5/7/20,Interlake-Eastern,0,20,0,20,0,332
+5/7/20,Northern,0,3,0,3,0,333
+5/7/20,Prairie Mountain Health,1,22,7,14,1,334
+5/7/20,Southern Health-Santé Sud,0,30,0,29,1,335
+5/7/20,Winnipeg,0,209,9,195,5,336
+5/8/20,All,1,285,15,263,7,337
+5/8/20,Interlake-Eastern,0,20,0,20,0,338
+5/8/20,Northern,0,3,0,3,0,339
+5/8/20,Prairie Mountain Health,0,22,7,14,1,340
+5/8/20,Southern Health-Santé Sud,0,30,0,29,1,341
+5/8/20,Winnipeg,1,210,8,197,5,342
+5/9/20,All,2,287,16,264,7,343
+5/9/20,Interlake-Eastern,0,20,0,20,0,344
+5/9/20,Northern,0,3,0,3,0,345
+5/9/20,Prairie Mountain Health,2,24,9,14,1,346
+5/9/20,Southern Health-Santé Sud,0,30,0,29,1,347
+5/9/20,Winnipeg,0,210,7,198,5,348
+5/10/20,All,2,289,18,264,7,349
+5/10/20,Interlake-Eastern,0,20,0,20,0,350
+5/10/20,Northern,0,3,0,3,0,351
+5/10/20,Prairie Mountain Health,2,26,11,14,1,352
+5/10/20,Southern Health-Santé Sud,0,30,0,29,1,353
+5/10/20,Winnipeg,0,210,7,198,5,354
+5/11/20,All,0,289,16,266,7,355
+5/11/20,Interlake-Eastern,0,20,0,20,0,356
+5/11/20,Northern,0,3,0,3,0,357
+5/11/20,Prairie Mountain Health,0,26,10,15,1,358
+5/11/20,Southern Health-Santé Sud,0,30,0,29,1,359
+5/11/20,Winnipeg,0,210,6,199,5,360
+5/12/20,All,0,289,15,267,7,361
+5/12/20,Interlake-Eastern,0,20,0,20,0,362
+5/12/20,Northern,0,3,0,3,0,363
+5/12/20,Prairie Mountain Health,0,26,10,15,1,364
+5/12/20,Southern Health-Santé Sud,0,30,0,29,1,365
+5/12/20,Winnipeg,0,210,5,200,5,366
+5/13/20,All,0,289,13,269,7,367
+5/13/20,Interlake-Eastern,0,20,0,20,0,368
+5/13/20,Northern,0,3,0,3,0,369
+5/13/20,Prairie Mountain Health,0,26,9,16,1,370
+5/13/20,Southern Health-Santé Sud,0,30,0,29,1,371
+5/13/20,Winnipeg,0,210,4,201,5,372
+5/14/20,All,0,289,12,270,7,373
+5/14/20,Interlake-Eastern,0,20,0,20,0,374
+5/14/20,Northern,0,3,0,3,0,375
+5/14/20,Prairie Mountain Health,0,26,9,16,1,376
+5/14/20,Southern Health-Santé Sud,0,30,0,29,1,377
+5/14/20,Winnipeg,0,210,3,202,5,378
+5/15/20,All,0,289,9,273,7,379
+5/15/20,Interlake-Eastern,0,20,0,20,0,380
+5/15/20,Northern,0,3,0,3,0,381
+5/15/20,Prairie Mountain Health,0,26,8,17,1,382
+5/15/20,Southern Health-Santé Sud,0,30,0,29,1,383
+5/15/20,Winnipeg,0,210,1,204,5,384
+5/16/20,All,0,289,9,273,7,385
+5/16/20,Interlake-Eastern,0,20,0,20,0,386
+5/16/20,Northern,0,3,0,3,0,387
+5/16/20,Prairie Mountain Health,0,26,8,17,1,388
+5/16/20,Southern Health-Santé Sud,0,30,0,29,1,389
+5/16/20,Winnipeg,0,210,1,204,5,390
+5/17/20,All,1,290,8,275,7,391
+5/17/20,Interlake-Eastern,0,20,0,20,0,392
+5/17/20,Northern,0,3,0,3,0,393
+5/17/20,Prairie Mountain Health,0,26,6,19,1,394
+5/17/20,Southern Health-Santé Sud,0,30,0,29,1,395
+5/17/20,Winnipeg,1,211,2,204,5,396
+5/18/20,All,0,290,8,275,7,397
+5/18/20,Interlake-Eastern,0,20,0,20,0,398
+5/18/20,Northern,0,3,0,3,0,399
+5/18/20,Prairie Mountain Health,0,26,6,19,1,400
+5/18/20,Southern Health-Santé Sud,0,30,0,29,1,401
+5/18/20,Winnipeg,0,211,2,204,5,402
+5/19/20,All,0,290,7,276,7,403
+5/19/20,Interlake-Eastern,0,20,0,20,0,404
+5/19/20,Northern,0,3,0,3,0,405
+5/19/20,Prairie Mountain Health,0,26,6,19,1,406
+5/19/20,Southern Health-Santé Sud,0,30,0,29,1,407
+5/19/20,Winnipeg,0,211,1,205,5,408
+5/20/20,All,0,290,2,281,7,409
+5/20/20,Interlake-Eastern,0,20,0,20,0,410
+5/20/20,Northern,0,3,0,3,0,411
+5/20/20,Prairie Mountain Health,0,26,1,24,1,412
+5/20/20,Southern Health-Santé Sud,0,30,0,29,1,413
+5/20/20,Winnipeg,0,211,1,205,5,414
+5/21/20,All,2,292,4,281,7,415
+5/21/20,Interlake-Eastern,0,20,0,20,0,416
+5/21/20,Northern,0,3,0,3,0,417
+5/21/20,Prairie Mountain Health,0,26,1,24,1,418
+5/21/20,Southern Health-Santé Sud,0,30,0,29,1,419
+5/21/20,Winnipeg,2,213,3,205,5,420
+5/22/20,All,0,292,3,282,7,421
+5/22/20,Interlake-Eastern,0,20,0,20,0,422
+5/22/20,Northern,0,3,0,3,0,423
+5/22/20,Prairie Mountain Health,0,26,0,25,1,424
+5/22/20,Southern Health-Santé Sud,0,30,0,29,1,425
+5/22/20,Winnipeg,0,213,3,205,5,426
+5/23/20,All,0,292,3,282,7,427
+5/23/20,Interlake-Eastern,0,20,0,20,0,428
+5/23/20,Northern,0,3,0,3,0,429
+5/23/20,Prairie Mountain Health,0,26,0,25,1,430
+5/23/20,Southern Health-Santé Sud,0,30,0,29,1,431
+5/23/20,Winnipeg,0,213,3,205,5,432
+5/24/20,All,0,292,3,282,7,433
+5/24/20,Interlake-Eastern,0,20,0,20,0,434
+5/24/20,Northern,0,3,0,3,0,435
+5/24/20,Prairie Mountain Health,0,26,0,25,1,436
+5/24/20,Southern Health-Santé Sud,0,30,0,29,1,437
+5/24/20,Winnipeg,0,213,3,205,5,438
+5/25/20,All,0,292,2,283,7,439
+5/25/20,Interlake-Eastern,0,20,0,20,0,440
+5/25/20,Northern,0,3,0,3,0,441
+5/25/20,Prairie Mountain Health,0,26,0,25,1,442
+5/25/20,Southern Health-Santé Sud,0,30,0,29,1,443
+5/25/20,Winnipeg,0,213,2,206,5,444
+5/26/20,All,2,294,4,283,7,445
+5/26/20,Interlake-Eastern,0,20,0,20,0,446
+5/26/20,Northern,0,3,0,3,0,447
+5/26/20,Prairie Mountain Health,0,26,0,25,1,448
+5/26/20,Southern Health-Santé Sud,0,30,0,29,1,449
+5/26/20,Winnipeg,2,215,4,206,5,450
+5/27/20,All,0,294,4,283,7,451
+5/27/20,Interlake-Eastern,0,20,0,20,0,452
+5/27/20,Northern,0,3,0,3,0,453
+5/27/20,Prairie Mountain Health,0,26,0,25,1,454
+5/27/20,Southern Health-Santé Sud,0,30,0,29,1,455
+5/27/20,Winnipeg,0,215,4,206,5,456
+5/28/20,All,0,294,4,283,7,457
+5/28/20,Interlake-Eastern,0,20,0,20,0,458
+5/28/20,Northern,0,3,0,3,0,459
+5/28/20,Prairie Mountain Health,0,26,0,25,1,460
+5/28/20,Southern Health-Santé Sud,0,30,0,29,1,461
+5/28/20,Winnipeg,0,215,4,206,5,462
+5/29/20,All,0,294,4,283,7,463
+5/29/20,Interlake-Eastern,0,20,0,20,0,464
+5/29/20,Northern,0,3,0,3,0,465
+5/29/20,Prairie Mountain Health,0,26,0,25,1,466
+5/29/20,Southern Health-Santé Sud,0,30,0,29,1,467
+5/29/20,Winnipeg,0,215,4,206,5,468
+5/30/20,All,1,295,5,283,7,469
+5/30/20,Interlake-Eastern,0,20,0,20,0,470
+5/30/20,Northern,0,3,0,3,0,471
+5/30/20,Prairie Mountain Health,0,26,0,25,1,472
+5/30/20,Southern Health-Santé Sud,1,31,1,29,1,473
+5/30/20,Winnipeg,0,215,4,206,5,474
+5/31/20,All,0,295,5,283,7,475
+5/31/20,Interlake-Eastern,0,20,0,20,0,476
+5/31/20,Northern,0,3,0,3,0,477
+5/31/20,Prairie Mountain Health,0,26,0,25,1,478
+5/31/20,Southern Health-Santé Sud,0,31,1,29,1,479
+5/31/20,Winnipeg,0,215,4,206,5,480
+6/1/20,All,3,298,8,283,7,481
+6/1/20,Interlake-Eastern,0,20,0,20,0,482
+6/1/20,Northern,0,3,0,3,0,483
+6/1/20,Prairie Mountain Health,0,26,0,25,1,484
+6/1/20,Southern Health-Santé Sud,3,34,4,29,1,485
+6/1/20,Winnipeg,0,215,4,206,5,486
+6/2/20,All,0,298,6,285,7,487
+6/2/20,Interlake-Eastern,0,20,0,20,0,488
+6/2/20,Northern,0,3,0,3,0,489
+6/2/20,Prairie Mountain Health,0,26,0,25,1,490
+6/2/20,Southern Health-Santé Sud,0,34,4,29,1,491
+6/2/20,Winnipeg,0,215,2,208,5,492
+6/3/20,All,2,300,8,285,7,493
+6/3/20,Interlake-Eastern,0,20,0,20,0,494
+6/3/20,Northern,0,3,0,3,0,495
+6/3/20,Prairie Mountain Health,0,26,0,25,1,496
+6/3/20,Southern Health-Santé Sud,0,34,4,29,1,497
+6/3/20,Winnipeg,2,217,4,208,5,498
+6/4/20,All,0,300,8,285,7,499
+6/4/20,Interlake-Eastern,0,20,0,20,0,500
+6/4/20,Northern,0,3,0,3,0,501
+6/4/20,Prairie Mountain Health,0,26,0,25,1,502
+6/4/20,Southern Health-Santé Sud,0,34,4,29,1,503
+6/4/20,Winnipeg,0,217,4,208,5,504
+6/5/20,All,0,300,8,285,7,505
+6/5/20,Interlake-Eastern,0,20,0,20,0,506
+6/5/20,Northern,0,3,0,3,0,507
+6/5/20,Prairie Mountain Health,0,26,0,25,1,508
+6/5/20,Southern Health-Santé Sud,0,34,4,29,1,509
+6/5/20,Winnipeg,0,217,4,208,5,510
+6/6/20,All,0,300,8,285,7,511
+6/6/20,Interlake-Eastern,0,20,0,20,0,512
+6/6/20,Northern,0,3,0,3,0,513
+6/6/20,Prairie Mountain Health,0,26,0,25,1,514
+6/6/20,Southern Health-Santé Sud,0,34,4,29,1,515
+6/6/20,Winnipeg,0,217,4,208,5,516
+6/7/20,All,0,300,8,285,7,517
+6/7/20,Interlake-Eastern,0,20,0,20,0,518
+6/7/20,Northern,0,3,0,3,0,519
+6/7/20,Prairie Mountain Health,0,26,0,25,1,520
+6/7/20,Southern Health-Santé Sud,0,34,4,29,1,521
+6/7/20,Winnipeg,0,217,4,208,5,522
+6/8/20,All,0,300,5,288,7,523
+6/8/20,Interlake-Eastern,0,20,0,20,0,524
+6/8/20,Northern,0,3,0,3,0,525
+6/8/20,Prairie Mountain Health,0,26,0,25,1,526
+6/8/20,Southern Health-Santé Sud,0,34,3,30,1,527
+6/8/20,Winnipeg,0,217,2,210,5,528
+6/9/20,All,0,300,5,288,7,529
+6/9/20,Interlake-Eastern,0,20,0,20,0,530
+6/9/20,Northern,0,3,0,3,0,531
+6/9/20,Prairie Mountain Health,0,26,0,25,1,532
+6/9/20,Southern Health-Santé Sud,0,34,3,30,1,533
+6/9/20,Winnipeg,0,217,2,210,5,534
+6/10/20,All,0,300,5,288,7,535
+6/10/20,Interlake-Eastern,0,20,0,20,0,536
+6/10/20,Northern,0,3,0,3,0,537
+6/10/20,Prairie Mountain Health,0,26,0,25,1,538
+6/10/20,Southern Health-Santé Sud,0,34,3,30,1,539
+6/10/20,Winnipeg,0,217,2,210,5,540
+6/11/20,All,1,301,5,289,7,541
+6/11/20,Interlake-Eastern,0,20,0,20,0,542
+6/11/20,Northern,0,3,0,3,0,543
+6/11/20,Prairie Mountain Health,0,26,0,25,1,544
+6/11/20,Southern Health-Santé Sud,0,34,3,30,1,545
+6/11/20,Winnipeg,1,218,2,211,5,546
+6/12/20,All,2,303,7,289,7,547
+6/12/20,Interlake-Eastern,0,20,0,20,0,548
+6/12/20,Northern,0,3,0,3,0,549
+6/12/20,Prairie Mountain Health,0,26,0,25,1,550
+6/12/20,Southern Health-Santé Sud,0,34,3,30,1,551
+6/12/20,Winnipeg,2,220,4,211,5,552
+6/13/20,All,1,304,5,292,7,553
+6/13/20,Interlake-Eastern,0,20,0,20,0,554
+6/13/20,Northern,0,3,0,3,0,555
+6/13/20,Prairie Mountain Health,0,26,0,25,1,556
+6/13/20,Southern Health-Santé Sud,0,34,0,33,1,557
+6/13/20,Winnipeg,1,221,5,211,5,558
+6/14/20,All,0,304,5,292,7,559
+6/14/20,Interlake-Eastern,0,20,0,20,0,560
+6/14/20,Northern,0,3,0,3,0,561
+6/14/20,Prairie Mountain Health,0,26,0,25,1,562
+6/14/20,Southern Health-Santé Sud,0,34,0,33,1,563
+6/14/20,Winnipeg,0,221,5,211,5,564
+6/15/20,All,0,304,4,293,7,565
+6/15/20,Interlake-Eastern,0,20,0,20,0,566
+6/15/20,Northern,0,3,0,3,0,567
+6/15/20,Prairie Mountain Health,0,26,0,25,1,568
+6/15/20,Southern Health-Santé Sud,0,34,0,33,1,569
+6/15/20,Winnipeg,0,221,4,212,5,570
+6/16/20,All,2,306,6,293,7,571
+6/16/20,Interlake-Eastern,0,20,0,20,0,572
+6/16/20,Northern,0,3,0,3,0,573
+6/16/20,Prairie Mountain Health,0,26,0,25,1,574
+6/16/20,Southern Health-Santé Sud,0,34,0,33,1,575
+6/16/20,Winnipeg,2,223,6,212,5,576
+6/17/20,All,2,308,8,293,7,577
+6/17/20,Interlake-Eastern,0,20,0,20,0,578
+6/17/20,Northern,0,3,0,3,0,579
+6/17/20,Prairie Mountain Health,0,26,0,25,1,580
+6/17/20,Southern Health-Santé Sud,0,34,0,33,1,581
+6/17/20,Winnipeg,2,225,8,212,5,582
+6/18/20,All,1,309,9,293,7,583
+6/18/20,Interlake-Eastern,0,20,0,20,0,584
+6/18/20,Northern,0,3,0,3,0,585
+6/18/20,Prairie Mountain Health,0,26,0,25,1,586
+6/18/20,Southern Health-Santé Sud,0,34,0,33,1,587
+6/18/20,Winnipeg,1,226,9,212,5,588
+6/19/20,All,4,313,13,293,7,589
+6/19/20,Interlake-Eastern,0,20,0,20,0,590
+6/19/20,Northern,0,3,0,3,0,591
+6/19/20,Prairie Mountain Health,0,26,0,25,1,592
+6/19/20,Southern Health-Santé Sud,2,36,2,33,1,593
+6/19/20,Winnipeg,2,228,11,212,5,594
+6/20/20,All,0,313,13,293,7,595
+6/20/20,Interlake-Eastern,0,20,0,20,0,596
+6/20/20,Northern,0,3,0,3,0,597
+6/20/20,Prairie Mountain Health,0,26,0,25,1,598
+6/20/20,Southern Health-Santé Sud,0,36,2,33,1,599
+6/20/20,Winnipeg,0,228,11,212,5,600
+6/21/20,All,1,314,14,293,7,601
+6/21/20,Interlake-Eastern,0,20,0,20,0,602
+6/21/20,Northern,0,3,0,3,0,603
+6/21/20,Prairie Mountain Health,0,26,0,25,1,604
+6/21/20,Southern Health-Santé Sud,1,37,3,33,1,605
+6/21/20,Winnipeg,0,228,11,212,5,606
+6/22/20,All,1,315,14,294,7,607
+6/22/20,Interlake-Eastern,0,20,0,20,0,608
+6/22/20,Northern,0,3,0,3,0,609
+6/22/20,Prairie Mountain Health,0,26,0,25,1,610
+6/22/20,Southern Health-Santé Sud,0,37,3,33,1,611
+6/22/20,Winnipeg,1,229,11,213,5,612
+6/23/20,All,0,315,13,295,7,613
+6/23/20,Interlake-Eastern,0,20,0,20,0,614
+6/23/20,Northern,0,3,0,3,0,615
+6/23/20,Prairie Mountain Health,0,26,0,25,1,616
+6/23/20,Southern Health-Santé Sud,0,37,3,33,1,617
+6/23/20,Winnipeg,0,229,10,214,5,618
+6/24/20,All,1,316,11,298,7,619
+6/24/20,Interlake-Eastern,0,20,0,20,0,620
+6/24/20,Northern,0,3,0,3,0,621
+6/24/20,Prairie Mountain Health,0,26,0,25,1,622
+6/24/20,Southern Health-Santé Sud,1,38,4,33,1,623
+6/24/20,Winnipeg,0,229,7,217,5,624
+6/25/20,All,2,318,9,302,7,625
+6/25/20,Interlake-Eastern,0,20,0,20,0,626
+6/25/20,Northern,0,3,0,3,0,627
+6/25/20,Prairie Mountain Health,0,26,0,25,1,628
+6/25/20,Southern Health-Santé Sud,0,38,2,35,1,629
+6/25/20,Winnipeg,2,231,7,219,5,630
+6/26/20,All,4,322,12,303,7,631
+6/26/20,Interlake-Eastern,0,20,0,20,0,632
+6/26/20,Northern,0,3,0,3,0,633
+6/26/20,Prairie Mountain Health,0,26,0,26,1,634
+6/26/20,Southern Health-Santé Sud,2,40,4,35,1,635
+6/26/20,Winnipeg,2,233,9,219,5,636
+6/27/20,All,0,322,9,306,7,637
+6/27/20,Interlake-Eastern,0,20,0,20,0,638
+6/27/20,Northern,0,3,0,3,0,639
+6/27/20,Prairie Mountain Health,0,26,0,26,1,640
+6/27/20,Southern Health-Santé Sud,0,40,4,35,1,641
+6/27/20,Winnipeg,0,233,6,222,5,642
+6/28/20,All,2,324,11,306,7,643
+6/28/20,Interlake-Eastern,0,20,0,20,0,644
+6/28/20,Northern,0,3,0,3,0,645
+6/28/20,Prairie Mountain Health,0,26,0,26,1,646
+6/28/20,Southern Health-Santé Sud,0,40,4,35,1,647
+6/28/20,Winnipeg,2,235,8,222,5,648
+6/29/20,All,1,325,11,307,7,649
+6/29/20,Interlake-Eastern,0,20,0,20,0,650
+6/29/20,Northern,0,3,0,3,0,651
+6/29/20,Prairie Mountain Health,0,26,0,26,1,652
+6/29/20,Southern Health-Santé Sud,0,40,4,35,1,653
+6/29/20,Winnipeg,1,236,8,223,5,654
+6/30/20,All,0,325,9,309,7,655
+6/30/20,Interlake-Eastern,0,20,0,20,0,656
+6/30/20,Northern,0,3,0,3,0,657
+6/30/20,Prairie Mountain Health,0,26,0,26,1,658
+6/30/20,Southern Health-Santé Sud,0,40,2,37,1,659
+6/30/20,Winnipeg,0,236,8,223,5,660
+7/1/20,All,0,325,9,309,7,661
+7/1/20,Interlake-Eastern,0,20,0,20,0,662
+7/1/20,Northern,0,3,0,3,0,663
+7/1/20,Prairie Mountain Health,0,26,0,26,1,664
+7/1/20,Southern Health-Santé Sud,0,40,2,37,1,665
+7/1/20,Winnipeg,0,236,8,223,5,666
+7/2/20,All,0,325,8,310,7,667
+7/2/20,Interlake-Eastern,0,20,0,20,0,668
+7/2/20,Northern,0,3,0,3,0,669
+7/2/20,Prairie Mountain Health,0,26,0,26,1,670
+7/2/20,Southern Health-Santé Sud,0,40,2,37,1,671
+7/2/20,Winnipeg,0,236,7,224,5,672
+7/3/20,All,0,325,6,312,7,673
+7/3/20,Interlake-Eastern,0,20,0,20,0,674
+7/3/20,Northern,0,3,0,3,0,675
+7/3/20,Prairie Mountain Health,0,26,0,26,1,676
+7/3/20,Southern Health-Santé Sud,0,40,0,39,1,677
+7/3/20,Winnipeg,0,236,7,224,5,678
+7/4/20,All,0,325,4,314,7,679
+7/4/20,Interlake-Eastern,0,20,0,20,0,680
+7/4/20,Northern,0,3,0,3,0,681
+7/4/20,Prairie Mountain Health,0,26,0,26,1,682
+7/4/20,Southern Health-Santé Sud,0,40,0,39,1,683
+7/4/20,Winnipeg,0,236,5,226,5,684
+7/5/20,All,0,325,3,315,7,685
+7/5/20,Interlake-Eastern,0,20,0,20,0,686
+7/5/20,Northern,0,3,0,3,0,687
+7/5/20,Prairie Mountain Health,0,26,0,26,1,688
+7/5/20,Southern Health-Santé Sud,0,40,0,39,1,689
+7/5/20,Winnipeg,0,236,4,227,5,690
+7/6/20,All,0,325,3,315,7,691
+7/6/20,Interlake-Eastern,0,20,0,20,0,692
+7/6/20,Northern,0,3,0,3,0,693
+7/6/20,Prairie Mountain Health,0,26,0,26,1,694
+7/6/20,Southern Health-Santé Sud,0,40,0,39,1,695
+7/6/20,Winnipeg,0,236,4,227,5,696
+7/7/20,All,0,325,1,317,7,697
+7/7/20,Interlake-Eastern,0,20,0,20,0,698
+7/7/20,Northern,0,3,0,3,0,699
+7/7/20,Prairie Mountain Health,0,26,0,26,1,700
+7/7/20,Southern Health-Santé Sud,0,40,0,41,1,701
+7/7/20,Winnipeg,0,236,4,227,5,702
+7/8/20,All,0,325,0,318,7,703
+7/8/20,Interlake-Eastern,0,20,0,20,0,704
+7/8/20,Northern,0,3,0,3,0,705
+7/8/20,Prairie Mountain Health,0,26,0,26,1,706
+7/8/20,Southern Health-Santé Sud,0,40,0,41,1,707
+7/8/20,Winnipeg,0,236,3,228,5,708
+7/9/20,All,0,325,0,320,7,709
+7/9/20,Interlake-Eastern,0,20,0,20,0,710
+7/9/20,Northern,0,3,0,3,0,711
+7/9/20,Prairie Mountain Health,0,26,0,26,1,712
+7/9/20,Southern Health-Santé Sud,0,40,0,41,1,713
+7/9/20,Winnipeg,0,236,1,230,5,714
+7/10/20,All,0,325,0,321,7,715
+7/10/20,Interlake-Eastern,0,20,0,20,0,716
+7/10/20,Northern,0,3,0,3,0,717
+7/10/20,Prairie Mountain Health,0,26,0,26,1,718
+7/10/20,Southern Health-Santé Sud,0,40,0,41,1,719
+7/10/20,Winnipeg,0,236,0,231,5,720
+7/11/20,All,0,325,0,321,7,721
+7/11/20,Interlake-Eastern,0,20,0,20,0,722
+7/11/20,Northern,0,3,0,3,0,723
+7/11/20,Prairie Mountain Health,0,26,0,26,1,724
+7/11/20,Southern Health-Santé Sud,0,40,0,41,1,725
+7/11/20,Winnipeg,0,236,0,231,5,726
+7/12/20,All,0,325,0,322,7,727
+7/12/20,Interlake-Eastern,0,20,0,20,0,728
+7/12/20,Northern,0,3,0,3,0,729
+7/12/20,Prairie Mountain Health,0,26,0,26,1,730
+7/12/20,Southern Health-Santé Sud,0,40,0,41,1,731
+7/12/20,Winnipeg,0,236,0,232,5,732
+7/13/20,All,5,330,0,323,7,733
+7/13/20,Interlake-Eastern,1,21,1,20,0,734
+7/13/20,Northern,0,3,0,3,0,735
+7/13/20,Prairie Mountain Health,0,26,0,26,1,736
+7/13/20,Southern Health-Santé Sud,2,42,0,42,1,737
+7/13/20,Winnipeg,2,238,1,232,5,738
+7/14/20,All,0,330,0,323,7,739
+7/14/20,Interlake-Eastern,0,21,1,20,0,740
+7/14/20,Northern,0,3,0,3,0,741
+7/14/20,Prairie Mountain Health,0,26,0,26,1,742
+7/14/20,Southern Health-Santé Sud,0,42,0,42,1,743
+7/14/20,Winnipeg,0,238,1,232,5,744
+7/15/20,All,1,331,0,324,7,745
+7/15/20,Interlake-Eastern,0,21,1,20,0,746
+7/15/20,Northern,0,3,0,3,0,747
+7/15/20,Prairie Mountain Health,0,26,0,26,1,748
+7/15/20,Southern Health-Santé Sud,1,43,0,43,1,749
+7/15/20,Winnipeg,0,238,1,232,5,750
+7/16/20,All,5,336,5,324,7,751
+7/16/20,Interlake-Eastern,5,26,6,20,0,752
+7/16/20,Northern,0,3,0,3,0,753
+7/16/20,Prairie Mountain Health,0,26,0,26,1,754
+7/16/20,Southern Health-Santé Sud,0,43,0,43,1,755
+7/16/20,Winnipeg,0,238,1,232,5,756
+7/17/20,All,1,337,6,324,7,757
+7/17/20,Interlake-Eastern,1,27,7,20,0,758
+7/17/20,Northern,0,3,0,3,0,759
+7/17/20,Prairie Mountain Health,0,26,0,26,1,760
+7/17/20,Southern Health-Santé Sud,0,43,0,43,1,761
+7/17/20,Winnipeg,0,238,1,232,5,762
+7/18/20,All,5,342,11,324,7,763
+7/18/20,Interlake-Eastern,2,29,9,20,0,764
+7/18/20,Northern,0,3,0,3,0,765
+7/18/20,Prairie Mountain Health,0,26,0,26,1,766
+7/18/20,Southern Health-Santé Sud,1,44,0,43,1,767
+7/18/20,Winnipeg,2,240,3,232,5,768
+7/19/20,All,13,355,23,325,7,769
+7/19/20,Interlake-Eastern,8,37,17,20,0,770
+7/19/20,Northern,0,3,0,3,0,771
+7/19/20,Prairie Mountain Health,3,29,2,26,1,772
+7/19/20,Southern Health-Santé Sud,0,44,0,43,1,773
+7/19/20,Winnipeg,2,242,4,233,5,774
+7/20/20,All,12,367,35,325,7,775
+7/20/20,Interlake-Eastern,7,44,24,20,0,776
+7/20/20,Northern,0,3,0,3,0,777
+7/20/20,Prairie Mountain Health,2,31,4,26,1,778
+7/20/20,Southern Health-Santé Sud,1,45,1,43,1,779
+7/20/20,Winnipeg,2,244,6,233,5,780
+7/21/20,All,7,374,40,327,7,781
+7/21/20,Interlake-Eastern,2,46,25,21,0,782
+7/21/20,Northern,0,3,0,3,0,783
+7/21/20,Prairie Mountain Health,2,33,6,26,1,784
+7/21/20,Southern Health-Santé Sud,3,48,4,43,1,785
+7/21/20,Winnipeg,0,244,5,234,5,786
+7/22/20,All,6,380,45,327,8,787
+7/22/20,Interlake-Eastern,3,49,28,21,0,788
+7/22/20,Northern,0,3,0,3,0,789
+7/22/20,Prairie Mountain Health,0,33,6,26,1,790
+7/22/20,Southern Health-Santé Sud,2,50,5,43,2,791
+7/22/20,Winnipeg,1,245,6,234,5,792
+7/23/20,All,5,385,50,327,8,793
+7/23/20,Interlake-Eastern,1,50,29,21,0,794
+7/23/20,Northern,0,3,0,3,0,795
+7/23/20,Prairie Mountain Health,1,34,7,26,1,796
+7/23/20,Southern Health-Santé Sud,3,53,8,43,2,797
+7/23/20,Winnipeg,0,245,6,234,5,798
+7/24/20,All,6,391,54,329,8,799
+7/24/20,Interlake-Eastern,0,50,27,23,0,800
+7/24/20,Northern,0,3,0,3,0,801
+7/24/20,Prairie Mountain Health,3,37,10,26,1,802
+7/24/20,Southern Health-Santé Sud,3,56,11,43,2,803
+7/24/20,Winnipeg,0,245,6,234,5,804
+7/25/20,All,5,396,58,330,8,805
+7/25/20,Interlake-Eastern,1,51,28,23,0,806
+7/25/20,Northern,0,3,0,3,0,807
+7/25/20,Prairie Mountain Health,0,37,10,26,1,808
+7/25/20,Southern Health-Santé Sud,1,57,12,43,2,809
+7/25/20,Winnipeg,3,248,8,235,5,810
+7/26/20,All,5,401,59,334,8,811
+7/26/20,Interlake-Eastern,2,53,26,27,0,812
+7/26/20,Northern,0,3,0,3,0,813
+7/26/20,Prairie Mountain Health,1,38,11,26,1,814
+7/26/20,Southern Health-Santé Sud,1,58,13,43,2,815
+7/26/20,Winnipeg,1,249,9,235,5,816
+7/27/20,All,3,404,54,342,8,817
+7/27/20,Interlake-Eastern,2,55,23,32,0,818
+7/27/20,Northern,0,3,0,3,0,819
+7/27/20,Prairie Mountain Health,1,39,12,26,1,820
+7/27/20,Southern Health-Santé Sud,0,58,13,43,2,821
+7/27/20,Winnipeg,0,249,6,238,5,822
+7/28/20,All,3,407,51,348,8,823
+7/28/20,Interlake-Eastern,2,57,21,36,0,824
+7/28/20,Northern,0,3,0,3,0,825
+7/28/20,Prairie Mountain Health,0,39,11,27,1,826
+7/28/20,Southern Health-Santé Sud,0,58,12,44,2,827
+7/28/20,Winnipeg,1,250,7,238,5,828
+7/29/20,All,3,410,46,356,8,829
+7/29/20,Interlake-Eastern,0,57,16,41,0,830
+7/29/20,Northern,0,3,0,3,0,831
+7/29/20,Prairie Mountain Health,2,41,12,28,1,832
+7/29/20,Southern Health-Santé Sud,0,58,10,46,2,833
+7/29/20,Winnipeg,1,251,8,238,5,834
+7/30/20,All,6,416,37,371,8,835
+7/30/20,Interlake-Eastern,3,60,16,44,0,836
+7/30/20,Northern,0,3,0,3,0,837
+7/30/20,Prairie Mountain Health,2,43,6,36,1,838
+7/30/20,Southern Health-Santé Sud,0,58,6,50,2,839
+7/30/20,Winnipeg,1,252,9,238,5,840
+7/31/20,All,6,422,35,379,8,841
+7/31/20,Interlake-Eastern,1,61,13,48,0,842
+7/31/20,Northern,0,3,0,3,0,843
+7/31/20,Prairie Mountain Health,1,44,6,37,1,844
+7/31/20,Southern Health-Santé Sud,3,61,7,52,2,845
+7/31/20,Winnipeg,1,253,9,239,5,846
+8/1/20,All,14,436,46,382,8,847
+8/1/20,Interlake-Eastern,0,61,13,48,0,848
+8/1/20,Northern,0,3,0,3,0,849
+8/1/20,Prairie Mountain Health,6,50,12,37,1,850
+8/1/20,Southern Health-Santé Sud,6,67,11,54,2,851
+8/1/20,Winnipeg,2,255,10,240,5,852
+8/2/20,All,5,441,50,383,8,853
+8/2/20,Interlake-Eastern,1,62,13,49,0,854
+8/2/20,Northern,0,3,0,3,0,855
+8/2/20,Prairie Mountain Health,1,51,13,37,1,856
+8/2/20,Southern Health-Santé Sud,2,69,13,54,2,857
+8/2/20,Winnipeg,1,256,11,240,5,858
+8/3/20,All,2,443,47,388,8,859
+8/3/20,Interlake-Eastern,0,62,11,51,0,860
+8/3/20,Northern,0,3,0,3,0,861
+8/3/20,Prairie Mountain Health,0,51,13,37,1,862
+8/3/20,Southern Health-Santé Sud,1,70,13,55,2,863
+8/3/20,Winnipeg,1,257,10,242,5,864
+8/4/20,All,3,446,44,394,8,865
+8/4/20,Interlake-Eastern,0,62,8,54,0,866
+8/4/20,Northern,0,3,0,3,0,867
+8/4/20,Prairie Mountain Health,0,51,13,37,1,868
+8/4/20,Southern Health-Santé Sud,1,71,13,56,2,869
+8/4/20,Winnipeg,2,259,10,244,5,870
+8/5/20,All,29,475,70,397,8,871
+8/5/20,Interlake-Eastern,0,62,8,54,0,872
+8/5/20,Northern,0,3,0,3,0,873
+8/5/20,Prairie Mountain Health,18,69,29,39,1,874
+8/5/20,Southern Health-Santé Sud,10,81,23,56,2,875
+8/5/20,Winnipeg,1,260,10,245,5,876
+8/6/20,All,17,492,82,402,8,877
+8/6/20,Interlake-Eastern,0,62,8,54,0,878
+8/6/20,Northern,0,3,0,3,0,879
+8/6/20,Prairie Mountain Health,10,79,39,39,1,880
+8/6/20,Southern Health-Santé Sud,2,83,24,57,2,881
+8/6/20,Winnipeg,5,265,11,249,5,882
+8/7/20,All,16,508,94,406,8,883
+8/7/20,Interlake-Eastern,0,62,7,55,0,884
+8/7/20,Northern,0,3,0,3,0,885
+8/7/20,Prairie Mountain Health,12,91,48,42,1,886
+8/7/20,Southern Health-Santé Sud,4,87,28,57,2,887
+8/7/20,Winnipeg,0,265,11,249,5,888
+8/8/20,All,35,543,123,412,8,889
+8/8/20,Interlake-Eastern,1,63,7,56,0,890
+8/8/20,Northern,0,3,0,3,0,891
+8/8/20,Prairie Mountain Health,20,111,65,45,1,892
+8/8/20,Southern Health-Santé Sud,9,96,35,59,2,893
+8/8/20,Winnipeg,5,270,16,249,5,894
+8/9/20,All,17,560,138,414,8,895
+8/9/20,Interlake-Eastern,0,63,6,57,0,896
+8/9/20,Northern,0,3,0,3,0,897
+8/9/20,Prairie Mountain Health,11,122,76,45,1,898
+8/9/20,Southern Health-Santé Sud,6,102,40,60,2,899
+8/9/20,Winnipeg,0,270,16,249,5,900
+8/10/20,All,3,563,136,419,8,901
+8/10/20,Interlake-Eastern,0,63,5,58,0,902
+8/10/20,Northern,0,3,0,3,0,903
+8/10/20,Prairie Mountain Health,3,125,77,47,1,904
+8/10/20,Southern Health-Santé Sud,0,102,38,62,2,905
+8/10/20,Winnipeg,0,270,16,249,5,906
+8/11/20,All,15,578,139,431,8,907
+8/11/20,Interlake-Eastern,0,63,3,60,0,908
+8/11/20,Northern,0,3,0,3,0,909
+8/11/20,Prairie Mountain Health,4,129,78,50,1,910
+8/11/20,Southern Health-Santé Sud,1,103,35,66,2,911
+8/11/20,Winnipeg,10,280,23,252,5,912
+8/12/20,All,25,603,158,437,8,913
+8/12/20,Interlake-Eastern,0,63,3,60,0,914
+8/12/20,Northern,0,3,0,3,0,915
+8/12/20,Prairie Mountain Health,12,141,88,52,1,916
+8/12/20,Southern Health-Santé Sud,6,109,38,69,2,917
+8/12/20,Winnipeg,7,287,29,253,5,918
+8/13/20,All,38,641,187,446,8,919
+8/13/20,Interlake-Eastern,0,63,3,60,0,920
+8/13/20,Northern,0,3,0,3,0,921
+8/13/20,Prairie Mountain Health,24,165,107,57,1,922
+8/13/20,Southern Health-Santé Sud,5,114,40,72,2,923
+8/13/20,Winnipeg,9,296,37,254,5,924
+8/14/20,All,19,660,189,462,9,925
+8/14/20,Interlake-Eastern,0,63,3,60,0,926
+8/14/20,Northern,0,3,0,3,0,927
+8/14/20,Prairie Mountain Health,7,172,109,62,1,928
+8/14/20,Southern Health-Santé Sud,6,120,35,82,3,929
+8/14/20,Winnipeg,6,302,42,255,5,930
+8/15/20,All,36,696,182,503,11,931
+8/15/20,Interlake-Eastern,0,63,3,60,0,932
+8/15/20,Northern,0,3,0,3,0,933
+8/15/20,Prairie Mountain Health,9,181,84,96,1,934
+8/15/20,Southern Health-Santé Sud,22,142,51,86,5,935
+8/15/20,Winnipeg,5,307,44,258,5,936
+8/16/20,All,40,736,213,512,11,937
+8/16/20,Interlake-Eastern,0,63,3,60,0,938
+8/16/20,Northern,0,3,0,3,0,939
+8/16/20,Prairie Mountain Health,20,201,97,103,1,940
+8/16/20,Southern Health-Santé Sud,12,154,61,88,5,941
+8/16/20,Winnipeg,8,315,52,258,5,942
+8/17/20,All,13,749,206,531,12,943
+8/17/20,Interlake-Eastern,2,65,5,60,0,944
+8/17/20,Northern,0,3,0,3,0,945
+8/17/20,Prairie Mountain Health,3,204,91,112,1,946
+8/17/20,Southern Health-Santé Sud,1,155,52,97,6,947
+8/17/20,Winnipeg,7,322,58,259,5,948
+8/18/20,All,15,764,189,563,12,949
+8/18/20,Interlake-Eastern,0,65,5,60,0,950
+8/18/20,Northern,0,3,0,3,0,951
+8/18/20,Prairie Mountain Health,13,217,90,126,1,952
+8/18/20,Southern Health-Santé Sud,1,156,38,112,6,953
+8/18/20,Winnipeg,1,323,56,262,5,954
+8/19/20,All,33,797,204,581,12,955
+8/19/20,Interlake-Eastern,0,65,5,60,0,956
+8/19/20,Northern,0,3,0,3,0,957
+8/19/20,Prairie Mountain Health,18,235,95,139,1,958
+8/19/20,Southern Health-Santé Sud,10,166,45,115,6,959
+8/19/20,Winnipeg,5,328,59,264,5,960
+8/20/20,All,35,832,221,599,12,961
+8/20/20,Interlake-Eastern,1,66,6,60,0,962
+8/20/20,Northern,0,3,0,3,0,963
+8/20/20,Prairie Mountain Health,7,242,98,143,1,964
+8/20/20,Southern Health-Santé Sud,18,184,58,120,6,965
+8/20/20,Winnipeg,9,337,59,273,5,966
+8/21/20,All,42,874,236,626,12,967
+8/21/20,Interlake-Eastern,0,66,6,60,0,968
+8/21/20,Northern,0,3,0,3,0,969
+8/21/20,Prairie Mountain Health,24,266,104,161,1,970
+8/21/20,Southern Health-Santé Sud,16,200,70,124,6,971
+8/21/20,Winnipeg,2,339,56,278,5,972
+8/22/20,All,98,972,321,639,12,973
+8/22/20,Interlake-Eastern,2,68,7,61,0,974
+8/22/20,Northern,1,4,1,3,0,975
+8/22/20,Prairie Mountain Health,68,334,165,168,1,976
+8/22/20,Southern Health-Santé Sud,17,217,85,126,6,977
+8/22/20,Winnipeg,10,349,63,281,5,978
+8/23/20,All,28,1000,327,660,13,979
+8/23/20,Interlake-Eastern,1,69,8,61,0,980
+8/23/20,Northern,0,4,1,3,0,981
+8/23/20,Prairie Mountain Health,17,351,176,174,1,982
+8/23/20,Southern Health-Santé Sud,3,220,80,133,7,983
+8/23/20,Winnipeg,7,356,62,289,5,984
+8/24/20,All,28,1028,338,677,13,985
+8/24/20,Interlake-Eastern,0,69,8,61,0,986
+8/24/20,Northern,0,4,1,3,0,987
+8/24/20,Prairie Mountain Health,13,364,181,182,1,988
+8/24/20,Southern Health-Santé Sud,9,229,82,140,7,989
+8/24/20,Winnipeg,6,362,66,291,5,990
+8/25/20,All,26,1054,332,709,13,991
+8/25/20,Interlake-Eastern,1,70,9,61,0,992
+8/25/20,Northern,0,4,0,4,0,993
+8/25/20,Prairie Mountain Health,9,373,177,195,1,994
+8/25/20,Southern Health-Santé Sud,7,236,80,149,7,995
+8/25/20,Winnipeg,9,371,66,300,5,996
+8/26/20,All,33,1087,331,742,14,997
+8/26/20,Interlake-Eastern,3,73,12,61,0,998
+8/26/20,Northern,0,4,0,4,0,999
+8/26/20,Prairie Mountain Health,17,390,185,204,1,1000
+8/26/20,Southern Health-Santé Sud,7,243,71,164,8,1001
+8/26/20,Winnipeg,6,377,63,309,5,1002
+8/27/20,All,27,1114,317,783,14,1003
+8/27/20,Interlake-Eastern,0,73,10,63,0,1004
+8/27/20,Northern,0,4,0,4,0,1005
+8/27/20,Prairie Mountain Health,15,405,176,228,1,1006
+8/27/20,Southern Health-Santé Sud,5,248,68,172,8,1007
+8/27/20,Winnipeg,7,384,63,316,5,1008
+8/28/20,All,47,1161,317,830,14,1009
+8/28/20,Interlake-Eastern,1,74,10,64,0,1010
+8/28/20,Northern,0,4,0,4,0,1011
+8/28/20,Prairie Mountain Health,25,430,173,256,1,1012
+8/28/20,Southern Health-Santé Sud,4,252,62,182,8,1013
+8/28/20,Winnipeg,17,401,72,324,5,1014
+8/29/20,All,36,1197,320,863,14,1015
+8/29/20,Interlake-Eastern,1,75,11,64,0,1016
+8/29/20,Northern,0,4,0,4,0,1017
+8/29/20,Prairie Mountain Health,12,442,167,274,1,1018
+8/29/20,Southern Health-Santé Sud,6,258,55,195,8,1019
+8/29/20,Winnipeg,17,418,87,326,5,1020
+8/30/20,All,25,1222,298,910,14,1021
+8/30/20,Interlake-Eastern,2,77,13,64,0,1022
+8/30/20,Northern,0,4,0,4,0,1023
+8/30/20,Prairie Mountain Health,12,454,148,305,1,1024
+8/30/20,Southern Health-Santé Sud,5,263,47,208,8,1025
+8/30/20,Winnipeg,6,424,90,329,5,1026
+8/31/20,All,18,1240,268,958,14,1027
+8/31/20,Interlake-Eastern,0,77,13,64,0,1028
+8/31/20,Northern,0,4,0,4,0,1029
+8/31/20,Prairie Mountain Health,6,460,135,324,1,1030
+8/31/20,Southern Health-Santé Sud,1,264,33,223,8,1031
+8/31/20,Winnipeg,11,435,87,343,5,1032
+9/1/20,All,7,1247,229,1003,15,1033
+9/1/20,Interlake-Eastern,0,77,9,68,0,1034
+9/1/20,Northern,0,4,0,4,0,1035
+9/1/20,Prairie Mountain Health,2,462,118,343,1,1036
+9/1/20,Southern Health-Santé Sud,1,265,25,231,9,1037
+9/1/20,Winnipeg,4,439,77,357,5,1038
+9/2/20,All,20,1267,216,1035,16,1039
+9/2/20,Interlake-Eastern,1,78,6,72,0,1040
+9/2/20,Northern,0,4,0,4,0,1041
+9/2/20,Prairie Mountain Health,6,468,109,358,1,1042
+9/2/20,Southern Health-Santé Sud,0,265,23,232,10,1043
+9/2/20,Winnipeg,13,452,78,369,5,1044
+9/3/20,All,9,1276,192,1068,16,1045
+9/3/20,Interlake-Eastern,0,78,6,72,0,1046
+9/3/20,Northern,0,4,0,4,0,1047
+9/3/20,Prairie Mountain Health,1,469,89,379,1,1048
+9/3/20,Southern Health-Santé Sud,2,267,21,236,10,1049
+9/3/20,Winnipeg,6,458,76,377,5,1050
+9/4/20,All,33,1309,194,1099,16,1051
+9/4/20,Interlake-Eastern,3,81,6,75,0,1052
+9/4/20,Northern,0,4,0,4,0,1053
+9/4/20,Prairie Mountain Health,5,474,79,394,1,1054
+9/4/20,Southern Health-Santé Sud,6,273,23,240,10,1055
+9/4/20,Winnipeg,19,477,86,386,5,1056
+9/5/20,All,16,1325,175,1134,16,1057
+9/5/20,Interlake-Eastern,1,82,7,75,0,1058
+9/5/20,Northern,0,4,0,4,0,1059
+9/5/20,Prairie Mountain Health,2,476,60,415,1,1060
+9/5/20,Southern Health-Santé Sud,5,278,26,242,10,1061
+9/5/20,Winnipeg,8,485,82,398,5,1062
+9/6/20,All,16,1341,170,1155,16,1063
+9/6/20,Interlake-Eastern,1,83,7,76,0,1064
+9/6/20,Northern,0,4,0,4,0,1065
+9/6/20,Prairie Mountain Health,6,482,55,426,1,1066
+9/6/20,Southern Health-Santé Sud,1,279,25,244,10,1067
+9/6/20,Winnipeg,8,493,83,405,5,1068
+9/7/20,All,10,1351,159,1176,16,1069
+9/7/20,Interlake-Eastern,1,84,8,76,0,1070
+9/7/20,Northern,0,4,0,4,0,1071
+9/7/20,Prairie Mountain Health,0,482,48,433,1,1072
+9/7/20,Southern Health-Santé Sud,2,281,21,250,10,1073
+9/7/20,Winnipeg,7,500,82,413,5,1074
+9/8/20,All,16,1367,153,1198,16,1075
+9/8/20,Interlake-Eastern,0,84,7,77,0,1076
+9/8/20,Northern,0,4,0,4,0,1077
+9/8/20,Prairie Mountain Health,1,483,42,440,1,1078
+9/8/20,Southern Health-Santé Sud,1,282,21,251,10,1079
+9/8/20,Winnipeg,14,514,83,426,5,1080
+9/9/20,All,14,1381,150,1215,16,1081
+9/9/20,Interlake-Eastern,2,86,9,77,0,1082
+9/9/20,Northern,0,4,0,4,0,1083
+9/9/20,Prairie Mountain Health,1,484,35,448,1,1084
+9/9/20,Southern Health-Santé Sud,2,284,22,252,10,1085
+9/9/20,Winnipeg,9,523,84,434,5,1086
+9/10/20,All,15,1396,146,1234,16,1087
+9/10/20,Interlake-Eastern,0,86,9,77,0,1088
+9/10/20,Northern,0,4,0,4,0,1089
+9/10/20,Prairie Mountain Health,4,488,32,455,1,1090
+9/10/20,Southern Health-Santé Sud,3,287,22,255,10,1091
+9/10/20,Winnipeg,8,531,83,443,5,1092
+9/11/20,All,17,1413,150,1247,16,1093
+9/11/20,Interlake-Eastern,5,91,14,77,0,1094
+9/11/20,Northern,0,4,0,4,0,1095
+9/11/20,Prairie Mountain Health,2,490,29,460,1,1096
+9/11/20,Southern Health-Santé Sud,2,289,24,255,10,1097
+9/11/20,Winnipeg,8,539,83,451,5,1098
+9/12/20,All,20,1433,152,1265,16,1099
+9/12/20,Interlake-Eastern,3,94,17,77,0,1100
+9/12/20,Northern,0,4,0,4,0,1101
+9/12/20,Prairie Mountain Health,1,491,30,460,1,1102
+9/12/20,Southern Health-Santé Sud,3,292,24,258,10,1103
+9/12/20,Winnipeg,13,552,81,466,5,1104
+9/13/20,All,19,1452,156,1280,16,1105
+9/13/20,Interlake-Eastern,1,95,18,77,0,1106
+9/13/20,Northern,0,4,0,4,0,1107
+9/13/20,Prairie Mountain Health,0,491,25,465,1,1108
+9/13/20,Southern Health-Santé Sud,3,295,25,260,10,1109
+9/13/20,Winnipeg,15,567,88,474,5,1110
+9/14/20,All,17,1469,153,1300,16,1111
+9/14/20,Interlake-Eastern,1,96,18,78,0,1112
+9/14/20,Northern,0,4,0,4,0,1113
+9/14/20,Prairie Mountain Health,1,492,24,467,1,1114
+9/14/20,Southern Health-Santé Sud,2,297,26,261,10,1115
+9/14/20,Winnipeg,13,580,85,490,5,1116
+9/15/20,All,23,1492,154,1322,16,1117
+9/15/20,Interlake-Eastern,2,98,18,80,0,1118
+9/15/20,Northern,0,4,0,4,0,1119
+9/15/20,Prairie Mountain Health,0,492,19,472,1,1120
+9/15/20,Southern Health-Santé Sud,0,297,25,262,10,1121
+9/15/20,Winnipeg,21,601,92,504,5,1122
+9/16/20,All,11,1503,146,1341,16,1123
+9/16/20,Interlake-Eastern,0,98,17,81,0,1124
+9/16/20,Northern,0,4,0,4,0,1125
+9/16/20,Prairie Mountain Health,1,493,18,474,1,1126
+9/16/20,Southern Health-Santé Sud,2,299,27,262,10,1127
+9/16/20,Winnipeg,8,609,84,520,5,1128
+9/17/20,All,40,1543,164,1363,16,1129
+9/17/20,Interlake-Eastern,4,102,20,82,0,1130
+9/17/20,Northern,0,4,0,4,0,1131
+9/17/20,Prairie Mountain Health,4,497,17,479,1,1132
+9/17/20,Southern Health-Santé Sud,3,302,27,265,10,1133
+9/17/20,Winnipeg,29,638,100,533,5,1134
+9/18/20,All,17,1560,156,1388,16,1135
+9/18/20,Interlake-Eastern,0,102,15,87,0,1136
+9/18/20,Northern,0,4,0,4,0,1137
+9/18/20,Prairie Mountain Health,3,500,19,480,1,1138
+9/18/20,Southern Health-Santé Sud,1,303,24,269,10,1139
+9/18/20,Winnipeg,13,651,98,548,5,1140
+9/19/20,All,29,1589,167,1406,16,1141
+9/19/20,Interlake-Eastern,2,104,17,87,0,1142
+9/19/20,Northern,0,4,0,4,0,1143
+9/19/20,Prairie Mountain Health,3,503,19,483,1,1144
+9/19/20,Southern Health-Santé Sud,1,304,24,270,10,1145
+9/19/20,Winnipeg,23,674,107,562,5,1146
+9/20/20,All,22,1611,174,1419,18,1147
+9/20/20,Interlake-Eastern,1,105,12,93,0,1148
+9/20/20,Northern,0,4,0,4,0,1149
+9/20/20,Prairie Mountain Health,1,504,17,485,2,1150
+9/20/20,Southern Health-Santé Sud,3,307,26,270,11,1151
+9/20/20,Winnipeg,17,691,119,567,5,1152
+9/21/20,All,24,1635,182,1434,19,1153
+9/21/20,Interlake-Eastern,2,107,11,96,0,1154
+9/21/20,Northern,0,4,0,4,0,1155
+9/21/20,Prairie Mountain Health,0,504,16,486,2,1156
+9/21/20,Southern Health-Santé Sud,2,309,24,274,11,1157
+9/21/20,Winnipeg,20,711,131,574,6,1158
+9/22/20,All,42,1677,211,1447,19,1159
+9/22/20,Interlake-Eastern,2,109,11,98,0,1160
+9/22/20,Northern,0,4,0,4,0,1161
+9/22/20,Prairie Mountain Health,3,507,19,486,2,1162
+9/22/20,Southern Health-Santé Sud,6,315,27,277,11,1163
+9/22/20,Winnipeg,31,742,154,582,6,1164
+9/23/20,All,40,1717,233,1465,19,1165
+9/23/20,Interlake-Eastern,4,113,13,100,0,1166
+9/23/20,Northern,0,4,0,4,0,1167
+9/23/20,Prairie Mountain Health,1,508,20,486,2,1168
+9/23/20,Southern Health-Santé Sud,2,317,26,280,11,1169
+9/23/20,Winnipeg,33,775,174,595,6,1170
+9/24/20,All,58,1775,271,1485,19,1171
+9/24/20,Interlake-Eastern,2,115,15,100,0,1172
+9/24/20,Northern,2,6,2,4,0,1173
+9/24/20,Prairie Mountain Health,1,509,18,489,2,1174
+9/24/20,Southern Health-Santé Sud,3,320,27,282,11,1175
+9/24/20,Winnipeg,50,825,209,610,6,1176
+9/25/20,All,66,1841,313,1509,19,1177
+9/25/20,Interlake-Eastern,3,118,16,102,0,1178
+9/25/20,Northern,0,6,2,4,0,1179
+9/25/20,Prairie Mountain Health,2,511,20,489,2,1180
+9/25/20,Southern Health-Santé Sud,5,325,31,283,11,1181
+9/25/20,Winnipeg,56,881,244,631,6,1182
+9/26/20,All,42,1883,337,1526,20,1183
+9/26/20,Interlake-Eastern,8,126,23,103,0,1184
+9/26/20,Northern,2,8,4,4,0,1185
+9/26/20,Prairie Mountain Health,1,512,18,491,3,1186
+9/26/20,Southern Health-Santé Sud,2,327,28,288,11,1187
+9/26/20,Winnipeg,29,910,264,640,6,1188
+9/27/20,All,44,1927,360,1547,20,1189
+9/27/20,Interlake-Eastern,8,134,25,109,0,1190
+9/27/20,Northern,7,15,11,4,0,1191
+9/27/20,Prairie Mountain Health,0,512,15,494,3,1192
+9/27/20,Southern Health-Santé Sud,4,331,27,293,11,1193
+9/27/20,Winnipeg,25,935,282,647,6,1194
+9/28/20,All,35,1962,374,1568,20,1195
+9/28/20,Interlake-Eastern,4,138,26,112,0,1196
+9/28/20,Northern,1,16,12,4,0,1197
+9/28/20,Prairie Mountain Health,0,512,14,495,3,1198
+9/28/20,Southern Health-Santé Sud,4,335,31,293,11,1199
+9/28/20,Winnipeg,26,961,291,664,6,1200
+9/29/20,All,38,2000,396,1583,21,1201
+9/29/20,Interlake-Eastern,2,140,25,115,0,1202
+9/29/20,Northern,1,17,13,4,0,1203
+9/29/20,Prairie Mountain Health,1,513,13,497,3,1204
+9/29/20,Southern Health-Santé Sud,3,338,33,294,11,1205
+9/29/20,Winnipeg,31,992,312,673,7,1206
+9/30/20,All,33,2033,401,1611,21,1207
+9/30/20,Interlake-Eastern,2,142,23,119,0,1208
+9/30/20,Northern,0,17,13,4,0,1209
+9/30/20,Prairie Mountain Health,4,517,15,499,3,1210
+9/30/20,Southern Health-Santé Sud,2,340,29,300,11,1211
+9/30/20,Winnipeg,25,1017,321,689,7,1212
+10/1/20,All,40,2073,419,1632,22,1213
+10/1/20,Interlake-Eastern,7,149,28,121,0,1214
+10/1/20,Northern,0,17,13,4,0,1215
+10/1/20,Prairie Mountain Health,2,519,17,499,3,1216
+10/1/20,Southern Health-Santé Sud,1,341,26,304,11,1217
+10/1/20,Winnipeg,30,1047,335,704,8,1218
+10/2/20,All,45,2118,441,1655,22,1219
+10/2/20,Interlake-Eastern,5,154,26,128,0,1220
+10/2/20,Northern,0,17,12,5,0,1221
+10/2/20,Prairie Mountain Health,1,520,16,501,3,1222
+10/2/20,Southern Health-Santé Sud,3,344,23,310,11,1223
+10/2/20,Winnipeg,36,1083,364,711,8,1224
+10/3/20,All,44,2162,474,1665,23,1225
+10/3/20,Interlake-Eastern,5,159,31,128,0,1226
+10/3/20,Northern,1,18,13,5,0,1227
+10/3/20,Prairie Mountain Health,1,521,14,504,3,1228
+10/3/20,Southern Health-Santé Sud,5,349,24,314,11,1229
+10/3/20,Winnipeg,32,1115,392,714,9,1230
+10/4/20,All,28,2190,478,1688,24,1231
+10/4/20,Interlake-Eastern,5,164,33,131,0,1232
+10/4/20,Northern,0,18,10,8,0,1233
+10/4/20,Prairie Mountain Health,0,521,13,504,4,1234
+10/4/20,Southern Health-Santé Sud,1,350,23,316,11,1235
+10/4/20,Winnipeg,22,1137,399,729,9,1236
+10/5/20,All,56,2246,501,1720,25,1237
+10/5/20,Interlake-Eastern,21,185,49,136,0,1238
+10/5/20,Northern,0,18,9,9,0,1239
+10/5/20,Prairie Mountain Health,2,523,14,505,4,1240
+10/5/20,Southern Health-Santé Sud,2,352,16,325,11,1241
+10/5/20,Winnipeg,31,1168,413,745,10,1242
+10/6/20,All,45,2291,521,1743,27,1243
+10/6/20,Interlake-Eastern,8,193,53,139,1,1244
+10/6/20,Northern,0,18,9,9,0,1245
+10/6/20,Prairie Mountain Health,2,525,16,505,4,1246
+10/6/20,Southern Health-Santé Sud,3,355,18,326,11,1247
+10/6/20,Winnipeg,32,1200,425,764,11,1248
+10/7/20,All,58,2349,550,1771,28,1249
+10/7/20,Interlake-Eastern,3,196,55,140,1,1250
+10/7/20,Northern,0,18,9,9,0,1251
+10/7/20,Prairie Mountain Health,0,525,15,506,4,1252
+10/7/20,Southern Health-Santé Sud,9,364,23,330,11,1253
+10/7/20,Winnipeg,46,1246,448,786,12,1254
+10/8/20,All,97,2446,616,1799,31,1255
+10/8/20,Interlake-Eastern,12,208,63,144,1,1256
+10/8/20,Northern,1,19,4,15,0,1257
+10/8/20,Prairie Mountain Health,3,528,17,507,4,1258
+10/8/20,Southern Health-Santé Sud,8,372,26,335,11,1259
+10/8/20,Winnipeg,73,1319,506,798,15,1260
+10/9/20,All,86,2532,678,1822,32,1261
+10/9/20,Interlake-Eastern,8,216,67,148,1,1262
+10/9/20,Northern,0,19,4,15,0,1263
+10/9/20,Prairie Mountain Health,4,532,17,511,4,1264
+10/9/20,Southern Health-Santé Sud,6,378,31,336,11,1265
+10/9/20,Winnipeg,68,1387,559,812,16,1266
+10/10/20,All,130,2662,789,1840,33,1267
+10/10/20,Interlake-Eastern,5,221,67,153,1,1268
+10/10/20,Northern,6,25,9,16,0,1269
+10/10/20,Prairie Mountain Health,4,536,19,513,4,1270
+10/10/20,Southern Health-Santé Sud,13,391,41,339,11,1271
+10/10/20,Winnipeg,102,1489,653,819,17,1272
+10/11/20,All,90,2752,849,1868,35,1273
+10/11/20,Interlake-Eastern,7,228,64,163,1,1274
+10/11/20,Northern,0,25,6,19,0,1275
+10/11/20,Prairie Mountain Health,2,538,21,513,4,1276
+10/11/20,Southern Health-Santé Sud,7,398,45,341,12,1277
+10/11/20,Winnipeg,74,1563,713,832,18,1278
+10/12/20,All,67,2819,881,1902,36,1279
+10/12/20,Interlake-Eastern,14,242,70,171,1,1280
+10/12/20,Northern,0,25,6,19,0,1281
+10/12/20,Prairie Mountain Health,3,541,20,517,4,1282
+10/12/20,Southern Health-Santé Sud,9,407,50,345,12,1283
+10/12/20,Winnipeg,41,1604,735,850,19,1284
+10/13/20,All,127,2946,961,1948,37,1285
+10/13/20,Interlake-Eastern,3,245,55,189,1,1286
+10/13/20,Northern,3,28,7,21,0,1287
+10/13/20,Prairie Mountain Health,2,543,21,518,4,1288
+10/13/20,Southern Health-Santé Sud,11,418,55,350,13,1289
+10/13/20,Winnipeg,108,1712,823,870,19,1290
+10/14/20,All,160,3106,1075,1992,39,1291
+10/14/20,Interlake-Eastern,5,250,52,197,1,1292
+10/14/20,Northern,4,32,8,24,0,1293
+10/14/20,Prairie Mountain Health,8,551,26,521,4,1294
+10/14/20,Southern Health-Santé Sud,21,439,68,358,13,1295
+10/14/20,Winnipeg,122,1834,921,892,21,1296
+10/15/20,All,76,3182,1115,2028,39,1297
+10/15/20,Interlake-Eastern,7,257,54,202,1,1298
+10/15/20,Northern,2,34,6,28,0,1299
+10/15/20,Prairie Mountain Health,0,551,22,525,4,1300
+10/15/20,Southern Health-Santé Sud,3,442,65,364,13,1301
+10/15/20,Winnipeg,64,1898,968,909,21,1302
+10/16/20,All,106,3288,1185,2063,40,1303
+10/16/20,Interlake-Eastern,8,265,60,204,1,1304
+10/16/20,Northern,8,42,14,28,0,1305
+10/16/20,Prairie Mountain Health,7,558,27,527,4,1306
+10/16/20,Southern Health-Santé Sud,10,452,64,375,13,1307
+10/16/20,Winnipeg,73,1971,1020,929,22,1308
+10/17/20,All,35,3323,1172,2109,42,1309
+10/17/20,Interlake-Eastern,1,266,58,207,1,1310
+10/17/20,Northern,5,47,14,33,0,1311
+10/17/20,Prairie Mountain Health,2,560,24,532,4,1312
+10/17/20,Southern Health-Santé Sud,7,459,65,381,13,1313
+10/17/20,Winnipeg,20,1991,1011,956,24,1314
+10/18/20,All,68,3391,1219,2129,43,1315
+10/18/20,Interlake-Eastern,4,270,60,209,1,1316
+10/18/20,Northern,4,51,15,36,0,1317
+10/18/20,Prairie Mountain Health,5,565,27,534,4,1318
+10/18/20,Southern Health-Santé Sud,10,469,69,387,13,1319
+10/18/20,Winnipeg,45,2036,1048,963,25,1320
+10/19/20,All,136,3527,1293,2191,43,1321
+10/19/20,Interlake-Eastern,3,273,51,221,1,1322
+10/19/20,Northern,7,58,21,37,0,1323
+10/19/20,Prairie Mountain Health,1,566,24,538,4,1324
+10/19/20,Southern Health-Santé Sud,15,484,76,395,13,1325
+10/19/20,Winnipeg,110,2146,1121,1000,25,1326
+10/20/20,All,168,3695,1394,2255,46,1327
+10/20/20,Interlake-Eastern,20,293,51,240,2,1328
+10/20/20,Northern,5,63,24,39,0,1329
+10/20/20,Prairie Mountain Health,4,570,27,539,4,1330
+10/20/20,Southern Health-Santé Sud,21,505,92,400,13,1331
+10/20/20,Winnipeg,118,2264,1200,1037,27,1332
+10/21/20,All,160,3855,1483,2323,49,1333
+10/21/20,Interlake-Eastern,9,302,52,248,2,1334
+10/21/20,Northern,12,75,29,46,0,1335
+10/21/20,Prairie Mountain Health,3,573,25,544,4,1336
+10/21/20,Southern Health-Santé Sud,31,536,101,422,13,1337
+10/21/20,Winnipeg,105,2369,1276,1063,30,1338
+10/22/20,All,178,4033,1572,2411,50,1339
+10/22/20,Interlake-Eastern,10,312,48,262,2,1340
+10/22/20,Northern,10,85,37,48,0,1341
+10/22/20,Prairie Mountain Health,4,577,28,545,4,1342
+10/22/20,Southern Health-Santé Sud,26,562,120,429,13,1343
+10/22/20,Winnipeg,128,2497,1339,1127,31,1344
+10/23/20,All,164,4197,1624,2521,52,1345
+10/23/20,Interlake-Eastern,12,324,39,283,2,1346
+10/23/20,Northern,12,97,38,59,0,1347
+10/23/20,Prairie Mountain Health,8,585,33,548,4,1348
+10/23/20,Southern Health-Santé Sud,26,588,138,437,13,1349
+10/23/20,Winnipeg,106,2603,1376,1194,33,1350
+10/24/20,All,164,4361,1734,2573,54,1351
+10/24/20,Interlake-Eastern,9,333,33,298,2,1352
+10/24/20,Northern,8,105,40,65,0,1353
+10/24/20,Prairie Mountain Health,3,588,33,551,4,1354
+10/24/20,Southern Health-Santé Sud,22,610,155,442,13,1355
+10/24/20,Winnipeg,122,2725,1473,1217,35,1356
+10/25/20,All,126,4487,1801,2628,58,1357
+10/25/20,Interlake-Eastern,10,343,30,309,4,1358
+10/25/20,Northern,12,117,46,71,0,1359
+10/25/20,Prairie Mountain Health,5,593,35,554,4,1360
+10/25/20,Southern Health-Santé Sud,8,618,151,454,13,1361
+10/25/20,Winnipeg,91,2816,1539,1240,37,1362
+10/26/20,All,200,4687,1927,2700,60,1363
+10/26/20,Interlake-Eastern,18,361,38,319,4,1364
+10/26/20,Northern,11,128,48,80,0,1365
+10/26/20,Prairie Mountain Health,1,594,32,558,4,1366
+10/26/20,Southern Health-Santé Sud,25,643,164,466,13,1367
+10/26/20,Winnipeg,145,2961,1645,1277,39,1368
+10/27/20,All,174,4861,2013,2785,63,1369
+10/27/20,Interlake-Eastern,12,373,37,332,4,1370
+10/27/20,Northern,5,133,44,89,0,1371
+10/27/20,Prairie Mountain Health,5,599,29,566,4,1372
+10/27/20,Southern Health-Santé Sud,17,660,160,487,13,1373
+10/27/20,Winnipeg,135,3096,1743,1311,42,1374
+10/28/20,All,289,5150,2162,2923,65,1375
+10/28/20,Interlake-Eastern,28,401,55,342,4,1376
+10/28/20,Northern,11,144,44,100,0,1377
+10/28/20,Prairie Mountain Health,3,602,28,570,4,1378
+10/28/20,Southern Health-Santé Sud,62,722,199,509,14,1379
+10/28/20,Winnipeg,185,3281,1836,1402,43,1380
+10/29/20,All,373,5523,2423,3034,66,1381
+10/29/20,Interlake-Eastern,37,438,68,366,4,1382
+10/29/20,Northern,27,171,61,110,0,1383
+10/29/20,Prairie Mountain Health,15,617,41,572,4,1384
+10/29/20,Southern Health-Santé Sud,64,786,241,531,14,1385
+10/29/20,Winnipeg,230,3511,2012,1455,44,1386
+10/30/20,All,231,5754,2558,3123,73,1387
+10/30/20,Interlake-Eastern,25,463,77,381,5,1388
+10/30/20,Northern,26,197,77,120,0,1389
+10/30/20,Prairie Mountain Health,9,626,48,574,4,1390
+10/30/20,Southern Health-Santé Sud,23,809,244,551,14,1391
+10/30/20,Winnipeg,148,3659,2112,1497,50,1392
+10/31/20,All,402,6156,2890,3185,81,1393
+10/31/20,Interlake-Eastern,34,497,103,389,5,1394
+10/31/20,Northern,17,214,88,126,0,1395
+10/31/20,Prairie Mountain Health,6,632,48,580,4,1396
+10/31/20,Southern Health-Santé Sud,50,859,283,561,15,1397
+10/31/20,Winnipeg,295,3954,2368,1529,57,1398
+11/1/20,All,141,6297,2985,3230,82,1399
+11/1/20,Interlake-Eastern,27,524,122,397,5,1400
+11/1/20,Northern,23,237,102,135,0,1401
+11/1/20,Prairie Mountain Health,8,640,50,586,4,1402
+11/1/20,Southern Health-Santé Sud,28,887,305,567,15,1403
+11/1/20,Winnipeg,55,4009,2406,1545,58,1404
+11/2/20,All,197,6494,3102,3301,91,1405
+11/2/20,Interlake-Eastern,15,539,129,405,5,1406
+11/2/20,Northern,15,252,112,140,0,1407
+11/2/20,Prairie Mountain Health,5,645,53,588,4,1408
+11/2/20,Southern Health-Santé Sud,29,916,319,582,15,1409
+11/2/20,Winnipeg,133,4142,2489,1586,67,1410
+11/3/20,All,285,6779,3274,3411,94,1411
+11/3/20,Interlake-Eastern,9,548,126,417,5,1412
+11/3/20,Northern,12,264,96,168,0,1413
+11/3/20,Prairie Mountain Health,5,650,53,593,4,1414
+11/3/20,Southern Health-Santé Sud,57,973,343,614,16,1415
+11/3/20,Winnipeg,202,4344,2656,1619,69,1416
+11/4/20,All,449,7228,3641,3488,99,1417
+11/4/20,Interlake-Eastern,42,590,166,419,5,1418
+11/4/20,Northern,47,311,138,173,0,1419
+11/4/20,Prairie Mountain Health,16,666,69,593,4,1420
+11/4/20,Southern Health-Santé Sud,70,1043,398,629,16,1421
+11/4/20,Winnipeg,274,4618,2870,1674,74,1422
+11/5/20,All,227,7455,3711,3637,107,1423
+11/5/20,Interlake-Eastern,9,599,170,424,5,1424
+11/5/20,Northern,19,330,139,190,1,1425
+11/5/20,Prairie Mountain Health,9,675,74,597,4,1426
+11/5/20,Southern Health-Santé Sud,67,1110,404,690,16,1427
+11/5/20,Winnipeg,123,4741,2924,1736,81,1428
+11/6/20,All,314,7769,3930,3722,117,1429
+11/6/20,Interlake-Eastern,32,631,190,436,5,1430
+11/6/20,Northern,23,353,155,197,1,1431
+11/6/20,Prairie Mountain Health,24,699,95,600,4,1432
+11/6/20,Southern Health-Santé Sud,51,1161,426,718,17,1433
+11/6/20,Winnipeg,184,4925,3064,1771,90,1434
+11/7/20,All,451,8220,4310,3790,120,1435
+11/7/20,Interlake-Eastern,15,646,200,441,5,1436
+11/7/20,Northern,6,359,150,208,1,1437
+11/7/20,Prairie Mountain Health,13,712,106,602,4,1438
+11/7/20,Southern Health-Santé Sud,86,1247,497,733,17,1439
+11/7/20,Winnipeg,331,5256,3357,1806,93,1440
+11/8/20,All,343,8563,4551,3883,129,1441
+11/8/20,Interlake-Eastern,11,657,199,453,5,1442
+11/8/20,Northern,12,371,153,217,1,1443
+11/8/20,Prairie Mountain Health,7,719,109,606,4,1444
+11/8/20,Southern Health-Santé Sud,91,1338,551,767,20,1445
+11/8/20,Winnipeg,222,5478,3539,1840,99,1446
+11/9/20,All,344,8907,4743,4030,134,1447
+11/9/20,Interlake-Eastern,28,685,223,457,5,1448
+11/9/20,Northern,36,407,171,235,1,1449
+11/9/20,Prairie Mountain Health,15,734,121,609,4,1450
+11/9/20,Southern Health-Santé Sud,79,1417,573,824,20,1451
+11/9/20,Winnipeg,186,5664,3655,1905,104,1452
+11/10/20,All,508,9415,5108,4164,143,1453
+11/10/20,Interlake-Eastern,34,719,241,472,6,1454
+11/10/20,Northern,28,435,191,242,2,1455
+11/10/20,Prairie Mountain Health,15,749,132,613,4,1456
+11/10/20,Southern Health-Santé Sud,119,1536,642,874,20,1457
+11/10/20,Winnipeg,312,5976,3902,1963,111,1458
+11/11/20,All,434,9849,5396,4300,153,1459
+11/11/20,Interlake-Eastern,21,740,253,481,6,1460
+11/11/20,Northern,11,446,188,255,3,1461
+11/11/20,Prairie Mountain Health,13,762,141,617,4,1462
+11/11/20,Southern Health-Santé Sud,108,1644,712,911,21,1463
+11/11/20,Winnipeg,281,6257,4102,2036,119,1464
+11/12/20,All,409,10258,5640,4460,158,1465
+11/12/20,Interlake-Eastern,30,770,276,487,7,1466
+11/12/20,Northern,21,467,186,278,3,1467
+11/12/20,Prairie Mountain Health,15,777,155,618,4,1468
+11/12/20,Southern Health-Santé Sud,93,1737,750,966,21,1469
+11/12/20,Winnipeg,250,6507,4273,2111,123,1470
+11/13/20,All,370,10628,5820,4643,165,1471
+11/13/20,Interlake-Eastern,13,783,279,497,7,1472
+11/13/20,Northern,22,489,197,289,3,1473
+11/13/20,Prairie Mountain Health,11,788,160,624,4,1474
+11/13/20,Southern Health-Santé Sud,66,1803,723,1055,25,1475
+11/13/20,Winnipeg,258,6765,4461,2178,126,1476
+11/14/20,All,443,11071,6069,4830,172,1477
+11/14/20,Interlake-Eastern,23,806,291,508,7,1478
+11/14/20,Northern,28,517,197,317,3,1479
+11/14/20,Prairie Mountain Health,39,827,196,627,4,1480
+11/14/20,Southern Health-Santé Sud,129,1932,816,1088,28,1481
+11/14/20,Winnipeg,224,6989,4569,2290,130,1482
+11/15/20,All,350,11421,6269,4971,181,1483
+11/15/20,Interlake-Eastern,21,827,307,513,7,1484
+11/15/20,Northern,33,550,206,341,3,1485
+11/15/20,Prairie Mountain Health,9,836,201,631,4,1486
+11/15/20,Southern Health-Santé Sud,71,2003,852,1120,31,1487
+11/15/20,Winnipeg,216,7205,4703,2366,136,1488
+11/16/20,All,306,11727,6406,5132,189,1489
+11/16/20,Interlake-Eastern,19,846,316,522,8,1490
+11/16/20,Northern,27,577,214,360,3,1491
+11/16/20,Prairie Mountain Health,10,846,207,635,4,1492
+11/16/20,Southern Health-Santé Sud,110,2113,886,1193,34,1493
+11/16/20,Winnipeg,140,7345,4783,2422,140,1494
+11/17/20,All,417,12144,6666,5281,197,1495
+11/17/20,Interlake-Eastern,16,862,321,531,10,1496
+11/17/20,Northern,56,633,261,369,3,1497
+11/17/20,Prairie Mountain Health,6,852,206,641,5,1498
+11/17/20,Southern Health-Santé Sud,90,2203,909,1257,37,1499
+11/17/20,Winnipeg,249,7594,4969,2483,142,1500
+11/18/20,All,442,12586,6879,5499,208,1501
+11/18/20,Interlake-Eastern,11,873,326,537,10,1502
+11/18/20,Northern,38,671,281,386,4,1503
+11/18/20,Prairie Mountain Health,10,862,212,643,7,1504
+11/18/20,Southern Health-Santé Sud,121,2324,945,1341,38,1505
+11/18/20,Winnipeg,262,7856,5115,2592,149,1506
+11/19/20,All,431,13017,7066,5734,217,1507
+11/19/20,Interlake-Eastern,21,894,334,549,11,1508
+11/19/20,Northern,22,693,282,407,4,1509
+11/19/20,Prairie Mountain Health,29,891,238,645,8,1510
+11/19/20,Southern Health-Santé Sud,121,2445,980,1425,40,1511
+11/19/20,Winnipeg,238,8094,5232,2708,154,1512
+11/20/20,All,352,13369,7177,5963,229,1513
+11/20/20,Interlake-Eastern,29,923,355,557,11,1514
+11/20/20,Northern,21,714,288,421,5,1515
+11/20/20,Prairie Mountain Health,15,906,248,649,9,1516
+11/20/20,Southern Health-Santé Sud,91,2536,968,1526,42,1517
+11/20/20,Winnipeg,196,8290,5318,2810,162,1518
+11/21/20,All,248,13617,7273,6106,238,1519
+11/21/20,Interlake-Eastern,14,937,362,564,11,1520
+11/21/20,Northern,27,741,307,429,5,1521
+11/21/20,Prairie Mountain Health,10,916,258,649,9,1522
+11/21/20,Southern Health-Santé Sud,43,2579,967,1570,42,1523
+11/21/20,Winnipeg,154,8444,5379,2894,171,1524
+11/22/20,All,593,14210,7645,6320,245,1525
+11/22/20,Interlake-Eastern,22,959,378,570,11,1526
+11/22/20,Northern,17,758,309,444,5,1527
+11/22/20,Prairie Mountain Health,14,930,257,664,9,1528
+11/22/20,Southern Health-Santé Sud,124,2703,1023,1636,44,1529
+11/22/20,Winnipeg,416,8860,5678,3006,176,1530
+11/23/20,All,432,14642,7775,6609,258,1531
+11/23/20,Interlake-Eastern,32,991,398,582,11,1532
+11/23/20,Northern,47,805,299,499,7,1533
+11/23/20,Prairie Mountain Health,29,959,283,666,10,1534
+11/23/20,Southern Health-Santé Sud,110,2813,1043,1721,49,1535
+11/23/20,Winnipeg,214,9074,5752,3141,181,1536
+11/24/20,All,340,14982,7864,6844,274,1537
+11/24/20,Interlake-Eastern,18,1009,408,589,12,1538
+11/24/20,Northern,19,824,276,541,7,1539
+11/24/20,Prairie Mountain Health,11,970,285,675,10,1540
+11/24/20,Southern Health-Santé Sud,77,2890,1020,1815,55,1541
+11/24/20,Winnipeg,215,9289,5875,3224,190,1542
+11/25/20,All,381,15363,8003,7077,283,1543
+11/25/20,Interlake-Eastern,26,1035,423,599,13,1544
+11/25/20,Northern,27,851,283,561,7,1545
+11/25/20,Prairie Mountain Health,14,984,293,681,10,1546
+11/25/20,Southern Health-Santé Sud,110,3000,1055,1888,57,1547
+11/25/20,Winnipeg,204,9493,5949,3348,196,1548
+11/26/20,All,320,15683,8081,7307,295,1549
+11/26/20,Interlake-Eastern,13,1048,428,607,13,1550
+11/26/20,Northern,36,887,297,583,7,1551
+11/26/20,Prairie Mountain Health,13,997,301,685,11,1552
+11/26/20,Southern Health-Santé Sud,63,3063,1024,1979,60,1553
+11/26/20,Winnipeg,195,9688,6031,3453,204,1554
+11/27/20,All,493,16176,8242,7627,307,1555
+11/27/20,Interlake-Eastern,20,1068,415,639,14,1556
+11/27/20,Northern,35,922,301,614,7,1557
+11/27/20,Prairie Mountain Health,16,1013,296,703,14,1558
+11/27/20,Southern Health-Santé Sud,108,3171,1069,2040,62,1559
+11/27/20,Winnipeg,314,10002,6161,3631,210,1560
+11/28/20,All,341,16517,8354,7848,315,1561
+11/28/20,Interlake-Eastern,15,1083,424,645,14,1562
+11/28/20,Northern,18,940,293,640,7,1563
+11/28/20,Prairie Mountain Health,8,1021,292,714,15,1564
+11/28/20,Southern Health-Santé Sud,74,3245,1076,2106,63,1565
+11/28/20,Winnipeg,226,10228,6269,3743,216,1566
+11/29/20,All,353,16870,8422,8122,326,1567
+11/29/20,Interlake-Eastern,21,1104,433,657,14,1568
+11/29/20,Northern,45,985,328,650,7,1569
+11/29/20,Prairie Mountain Health,15,1036,302,718,16,1570
+11/29/20,Southern Health-Santé Sud,52,3297,1073,2159,65,1571
+11/29/20,Winnipeg,220,10448,6286,3938,224,1572
+11/30/20,All,256,17126,8251,8530,345,1573
+11/30/20,Interlake-Eastern,14,1118,429,675,14,1574
+11/30/20,Northern,22,1007,331,669,7,1575
+11/30/20,Prairie Mountain Health,9,1045,295,732,18,1576
+11/30/20,Southern Health-Santé Sud,53,3350,1024,2254,72,1577
+11/30/20,Winnipeg,158,10606,6172,4200,234,1578
+12/1/20,All,292,17418,8314,8747,357,1579
+12/1/20,Interlake-Eastern,14,1132,420,698,14,1580
+12/1/20,Northern,24,1031,331,693,7,1581
+12/1/20,Prairie Mountain Health,9,1054,298,738,18,1582
+12/1/20,Southern Health-Santé Sud,24,3374,1014,2287,73,1583
+12/1/20,Winnipeg,221,10827,6251,4331,245,1584
+12/2/20,All,369,17787,8469,8949,369,1585
+12/2/20,Interlake-Eastern,24,1156,429,712,15,1586
+12/2/20,Northern,41,1072,354,710,8,1587
+12/2/20,Prairie Mountain Health,31,1085,315,750,20,1588
+12/2/20,Southern Health-Santé Sud,61,3435,998,2361,76,1589
+12/2/20,Winnipeg,212,11039,6373,4416,250,1590
+12/3/20,All,322,18109,8496,9232,381,1591
+12/3/20,Interlake-Eastern,15,1171,427,728,16,1592
+12/3/20,Northern,26,1098,349,741,8,1593
+12/3/20,Prairie Mountain Health,19,1104,325,759,20,1594
+12/3/20,Southern Health-Santé Sud,50,3485,971,2435,79,1595
+12/3/20,Winnipeg,212,11251,6424,4569,258,1596
+12/4/20,All,402,18511,8524,9590,397,1597
+12/4/20,Interlake-Eastern,35,1206,431,759,16,1598
+12/4/20,Northern,33,1131,363,758,10,1599
+12/4/20,Prairie Mountain Health,17,1121,332,769,20,1600
+12/4/20,Southern Health-Santé Sud,67,3552,976,2495,81,1601
+12/4/20,Winnipeg,250,11501,6422,4809,270,1602
+12/5/20,All,368,18879,8640,9824,415,1603
+12/5/20,Interlake-Eastern,22,1228,445,766,17,1604
+12/5/20,Northern,25,1156,348,798,10,1605
+12/5/20,Prairie Mountain Health,20,1141,341,779,21,1606
+12/5/20,Southern Health-Santé Sud,37,3589,964,2542,83,1607
+12/5/20,Winnipeg,264,11765,6542,4939,284,1608
+12/6/20,All,272,19151,5142,13581,428,1609
+12/6/20,Interlake-Eastern,28,1256,206,1032,18,1610
+12/6/20,Northern,28,1184,307,866,11,1611
+12/6/20,Prairie Mountain Health,16,1157,145,990,22,1612
+12/6/20,Southern Health-Santé Sud,22,3611,543,2983,85,1613
+12/6/20,Winnipeg,178,11943,3941,7710,292,1614
+12/7/20,All,260,19411,5051,13924,436,1615
+12/7/20,Interlake-Eastern,39,1295,227,1050,18,1616
+12/7/20,Northern,21,1205,311,883,11,1617
+12/7/20,Prairie Mountain Health,27,1184,154,1008,22,1618
+12/7/20,Southern Health-Santé Sud,34,3645,517,3042,86,1619
+12/7/20,Winnipeg,139,12082,3842,7941,299,1620
+12/8/20,All,256,19667,4980,14231,456,1621
+12/8/20,Interlake-Eastern,22,1317,228,1071,18,1622
+12/8/20,Northern,19,1224,314,898,12,1623
+12/8/20,Prairie Mountain Health,15,1199,153,1022,24,1624
+12/8/20,Southern Health-Santé Sud,24,3669,505,3076,88,1625
+12/8/20,Winnipeg,176,12258,3780,8164,314,1626
+12/9/20,All,309,19976,5029,14478,469,1627
+12/9/20,Interlake-Eastern,39,1356,250,1088,18,1628
+12/9/20,Northern,41,1265,345,908,12,1629
+12/9/20,Prairie Mountain Health,12,1211,152,1035,24,1630
+12/9/20,Southern Health-Santé Sud,51,3720,509,3120,91,1631
+12/9/20,Winnipeg,166,12424,3773,8327,324,1632
+12/10/20,All,449,20425,5113,14832,480,1633
+12/10/20,Interlake-Eastern,40,1396,266,1111,19,1634
+12/10/20,Northern,141,1406,476,918,12,1635
+12/10/20,Prairie Mountain Health,34,1245,165,1056,24,1636
+12/10/20,Southern Health-Santé Sud,35,3755,484,3179,92,1637
+12/10/20,Winnipeg,199,12623,3722,8568,333,1638
+12/11/20,All,373,20798,5212,15089,497,1639
+12/11/20,Interlake-Eastern,53,1449,298,1131,20,1640
+12/11/20,Northern,37,1443,492,939,12,1641
+12/11/20,Prairie Mountain Health,28,1273,161,1088,24,1642
+12/11/20,Southern Health-Santé Sud,29,3784,476,3215,93,1643
+12/11/20,Winnipeg,226,12849,3785,8716,348,1644
+12/12/20,All,246,21044,5209,15325,510,1645
+12/12/20,Interlake-Eastern,15,1464,284,1160,20,1646
+12/12/20,Northern,38,1481,516,951,14,1647
+12/12/20,Prairie Mountain Health,13,1286,144,1117,25,1648
+12/12/20,Southern Health-Santé Sud,21,3805,478,3234,93,1649
+12/12/20,Winnipeg,159,13008,3787,8863,358,1650
+12/13/20,All,244,21288,5207,15561,520,1651
+12/13/20,Interlake-Eastern,11,1475,277,1178,20,1652
+12/13/20,Northern,19,1500,522,964,14,1653
+12/13/20,Prairie Mountain Health,12,1298,147,1125,26,1654
+12/13/20,Southern Health-Santé Sud,37,3842,493,3256,93,1655
+12/13/20,Winnipeg,165,13173,3768,9038,367,1656
+12/14/20,All,260,21548,5108,15906,534,1657
+12/14/20,Interlake-Eastern,16,1491,261,1208,22,1658
+12/14/20,Northern,51,1551,549,988,14,1659
+12/14/20,Prairie Mountain Health,58,1356,179,1150,27,1660
+12/14/20,Southern Health-Santé Sud,20,3862,472,3296,94,1661
+12/14/20,Winnipeg,115,13288,3647,9264,377,1662
+12/15/20,All,285,21833,5140,16145,548,1663
+12/15/20,Interlake-Eastern,24,1515,265,1227,23,1664
+12/15/20,Northern,43,1594,576,1004,14,1665
+12/15/20,Prairie Mountain Health,31,1387,173,1187,27,1666
+12/15/20,Southern Health-Santé Sud,28,3890,461,3334,95,1667
+12/15/20,Winnipeg,159,13447,3665,9393,389,1668
+12/16/20,All,224,22057,5111,16383,563,1669
+12/16/20,Interlake-Eastern,21,1536,266,1245,25,1670
+12/16/20,Northern,49,1643,611,1018,14,1671
+12/16/20,Prairie Mountain Health,11,1398,154,1217,27,1672
+12/16/20,Southern Health-Santé Sud,29,3919,457,3364,98,1673
+12/16/20,Winnipeg,114,13561,3623,9539,399,1674
+12/17/20,All,348,22405,4852,16978,575,1675
+12/17/20,Interlake-Eastern,44,1580,291,1263,26,1676
+12/17/20,Northern,91,1734,686,1033,15,1677
+12/17/20,Prairie Mountain Health,32,1430,160,1242,28,1678
+12/17/20,Southern Health-Santé Sud,47,3966,466,3397,103,1679
+12/17/20,Winnipeg,134,13695,3249,10043,403,1680
+12/18/20,All,240,22645,4913,17156,576,1681
+12/18/20,Interlake-Eastern,30,1610,306,1278,26,1682
+12/18/20,Northern,51,1785,719,1051,15,1683
+12/18/20,Prairie Mountain Health,16,1446,155,1263,28,1684
+12/18/20,Southern Health-Santé Sud,33,3999,467,3429,103,1685
+12/18/20,Winnipeg,110,13805,3266,10135,404,1686
+12/19/20,All,223,22868,4977,17304,587,1687
+12/19/20,Interlake-Eastern,16,1626,310,1290,26,1688
+12/19/20,Northern,25,1810,730,1065,15,1689
+12/19/20,Prairie Mountain Health,14,1460,151,1279,30,1690
+12/19/20,Southern Health-Santé Sud,37,4036,483,3449,104,1691
+12/19/20,Winnipeg,131,13936,3303,10221,412,1692
+12/20/20,All,168,23036,5010,17434,592,1693
+12/20/20,Interlake-Eastern,9,1635,310,1299,26,1694
+12/20/20,Northern,23,1833,739,1079,15,1695
+12/20/20,Prairie Mountain Health,6,1466,143,1293,30,1696
+12/20/20,Southern Health-Santé Sud,42,4078,509,3464,105,1697
+12/20/20,Winnipeg,88,14024,3309,10299,416,1698
+12/21/20,All,153,23189,3649,18931,609,1699
+12/21/20,Interlake-Eastern,9,1644,270,1346,28,1700
+12/21/20,Northern,24,1857,734,1108,15,1701
+12/21/20,Prairie Mountain Health,10,1476,112,1333,31,1702
+12/21/20,Southern Health-Santé Sud,17,4095,418,3569,108,1703
+12/21/20,Winnipeg,93,14117,2115,11575,427,1704
+12/22/20,All,202,23391,3684,19088,619,1705
+12/22/20,Interlake-Eastern,13,1657,271,1357,29,1706
+12/22/20,Northern,30,1887,742,1129,16,1707
+12/22/20,Prairie Mountain Health,14,1490,105,1354,31,1708
+12/22/20,Southern Health-Santé Sud,23,4118,417,3592,109,1709
+12/22/20,Winnipeg,122,14239,2149,11656,434,1710
+12/23/20,All,242,23633,3762,19238,633,1711
+12/23/20,Interlake-Eastern,45,1702,303,1370,29,1712
+12/23/20,Northern,41,1928,769,1141,18,1713
+12/23/20,Prairie Mountain Health,3,1493,89,1373,31,1714
+12/23/20,Southern Health-Santé Sud,41,4159,419,3629,111,1715
+12/23/20,Winnipeg,112,14351,2182,11725,444,1716
+12/24/20,All,176,23809,3750,19415,644,1717
+12/24/20,Interlake-Eastern,20,1722,281,1411,30,1718
+12/24/20,Northern,26,1954,780,1156,18,1719
+12/24/20,Prairie Mountain Health,7,1500,91,1378,31,1720
+12/24/20,Southern Health-Santé Sud,17,4176,417,3647,112,1721
+12/24/20,Winnipeg,106,14457,2181,11823,453,1722
+12/25/20,All,198,24007,3790,19569,648,1723
+12/25/20,Interlake-Eastern,62,1784,328,1426,30,1724
+12/25/20,Northern,24,1978,787,1172,19,1725
+12/25/20,Prairie Mountain Health,7,1507,92,1384,31,1726
+12/25/20,Southern Health-Santé Sud,27,4203,418,3671,114,1727
+12/25/20,Winnipeg,78,14535,2165,11916,454,1728
+12/26/20,All,146,24153,3791,19703,659,1729
+12/26/20,Interlake-Eastern,20,1804,335,1439,30,1730
+12/26/20,Northern,50,2028,822,1186,20,1731
+12/26/20,Prairie Mountain Health,10,1517,87,1399,31,1732
+12/26/20,Southern Health-Santé Sud,15,4218,410,3694,114,1733
+12/26/20,Winnipeg,51,14586,2137,11985,464,1734
+12/27/20,All,116,24269,3755,19849,665,1735
+12/27/20,Interlake-Eastern,10,1814,340,1443,31,1736
+12/27/20,Northern,19,2047,815,1212,20,1737
+12/27/20,Prairie Mountain Health,12,1529,85,1412,32,1738
+12/27/20,Southern Health-Santé Sud,24,4242,413,3715,114,1739
+12/27/20,Winnipeg,51,14637,2102,12067,468,1740
+12/28/20,All,124,24393,3727,19995,671,1741
+12/28/20,Interlake-Eastern,6,1820,338,1451,31,1742
+12/28/20,Northern,2,2049,800,1228,21,1743
+12/28/20,Prairie Mountain Health,6,1535,83,1419,33,1744
+12/28/20,Southern Health-Santé Sud,21,4263,407,3741,115,1745
+12/28/20,Winnipeg,89,14726,2099,12156,471,1746
+12/29/20,All,125,24518,3761,20082,675,1747
+12/29/20,Interlake-Eastern,11,1831,341,1459,31,1748
+12/29/20,Northern,8,2057,798,1237,22,1749
+12/29/20,Prairie Mountain Health,7,1542,83,1425,34,1750
+12/29/20,Southern Health-Santé Sud,9,4272,400,3756,116,1751
+12/29/20,Winnipeg,90,14816,2139,12205,472,1752
+12/30/20,All,185,24703,3827,20197,679,1753
+12/30/20,Interlake-Eastern,16,1847,344,1472,31,1754
+12/30/20,Northern,38,2095,821,1252,22,1755
+12/30/20,Prairie Mountain Health,7,1549,85,1430,34,1756
+12/30/20,Southern Health-Santé Sud,30,4302,408,3778,116,1757
+12/30/20,Winnipeg,94,14910,2169,12265,476,1758
+12/31/20,All,154,24857,3847,20328,682,1759
+12/31/20,Interlake-Eastern,7,1854,343,1480,31,1760
+12/31/20,Northern,21,2116,825,1269,22,1761
+12/31/20,Prairie Mountain Health,4,1553,82,1437,34,1762
+12/31/20,Southern Health-Santé Sud,17,4319,399,3804,116,1763
+12/31/20,Winnipeg,105,15015,2198,12338,479,1764
+1/1/21,All,180,25037,3868,20477,692,1765
+1/1/21,Interlake-Eastern,9,1863,317,1514,32,1766
+1/1/21,Northern,30,2146,838,1285,23,1767
+1/1/21,Prairie Mountain Health,8,1561,84,1443,34,1768
+1/1/21,Southern Health-Santé Sud,17,4336,398,3820,118,1769
+1/1/21,Winnipeg,116,15131,2231,12415,485,1770
+1/2/21,All,94,25131,3783,20654,694,1771
+1/2/21,Interlake-Eastern,3,1866,250,1584,32,1772
+1/2/21,Northern,11,2157,834,1300,23,1773
+1/2/21,Prairie Mountain Health,8,1569,85,1450,34,1774
+1/2/21,Southern Health-Santé Sud,14,4350,401,3831,118,1775
+1/2/21,Winnipeg,58,15189,2213,12489,487,1776
+1/3/21,All,122,25253,3798,20755,700,1777
+1/3/21,Interlake-Eastern,6,1872,253,1587,32,1778
+1/3/21,Northern,3,2160,827,1309,24,1779
+1/3/21,Prairie Mountain Health,7,1576,84,1457,35,1780
+1/3/21,Southern Health-Santé Sud,17,4367,410,3839,118,1781
+1/3/21,Winnipeg,89,15278,2224,12563,491,1782
+1/4/21,All,131,25384,3826,20849,709,1783
+1/4/21,Interlake-Eastern,20,1892,260,1600,32,1784
+1/4/21,Northern,17,2177,840,1313,24,1785
+1/4/21,Prairie Mountain Health,9,1585,90,1460,35,1786
+1/4/21,Southern Health-Santé Sud,11,4378,402,3857,119,1787
+1/4/21,Winnipeg,74,15352,2234,12619,499,1788
+1/5/21,All,185,25569,3906,20942,721,1789
+1/5/21,Interlake-Eastern,8,1900,260,1607,33,1790
+1/5/21,Northern,50,2227,884,1318,25,1791
+1/5/21,Prairie Mountain Health,11,1596,88,1470,38,1792
+1/5/21,Southern Health-Santé Sud,12,4390,392,3879,119,1793
+1/5/21,Winnipeg,104,15456,2282,12668,506,1794
+1/6/21,All,180,25749,3983,21039,727,1795
+1/6/21,Interlake-Eastern,10,1910,266,1611,33,1796
+1/6/21,Northern,39,2266,914,1327,25,1797
+1/6/21,Prairie Mountain Health,17,1613,94,1480,39,1798
+1/6/21,Southern Health-Santé Sud,16,4406,392,3894,120,1799
+1/6/21,Winnipeg,98,15554,2317,12727,510,1800
+1/7/21,All,227,25976,4064,21179,733,1801
+1/7/21,Interlake-Eastern,14,1924,274,1617,33,1802
+1/7/21,Northern,72,2338,977,1336,25,1803
+1/7/21,Prairie Mountain Health,26,1639,108,1492,39,1804
+1/7/21,Southern Health-Santé Sud,14,4420,388,3912,120,1805
+1/7/21,Winnipeg,101,15655,2317,12822,516,1806
+1/8/21,All,199,26175,4155,21281,739,1807
+1/8/21,Interlake-Eastern,8,1932,272,1627,33,1808
+1/8/21,Northern,47,2385,1014,1346,25,1809
+1/8/21,Prairie Mountain Health,39,1678,136,1503,39,1810
+1/8/21,Southern Health-Santé Sud,17,4437,385,3931,121,1811
+1/8/21,Winnipeg,88,15743,2348,12874,521,1812
+1/9/21,All,140,26315,4207,21364,744,1813
+1/9/21,Interlake-Eastern,8,1940,274,1633,33,1814
+1/9/21,Northern,44,2429,1044,1360,25,1815
+1/9/21,Prairie Mountain Health,9,1687,132,1515,40,1816
+1/9/21,Southern Health-Santé Sud,15,4452,389,3942,121,1817
+1/9/21,Winnipeg,64,15807,2368,12914,525,1818
+1/10/21,All,135,26450,2978,22725,747,1819
+1/10/21,Interlake-Eastern,11,1951,260,1658,33,1820
+1/10/21,Northern,35,2464,1058,1380,26,1821
+1/10/21,Prairie Mountain Health,27,1714,125,1549,40,1822
+1/10/21,Southern Health-Santé Sud,14,4466,355,3990,121,1823
+1/10/21,Winnipeg,48,15855,1180,14148,527,1824
+1/11/21,All,103,26553,2847,22954,752,1825
+1/11/21,Interlake-Eastern,6,1957,265,1659,33,1826
+1/11/21,Northern,9,2473,1053,1394,26,1827
+1/11/21,Prairie Mountain Health,24,1738,133,1564,41,1828
+1/11/21,Southern Health-Santé Sud,8,4474,334,4019,121,1829
+1/11/21,Winnipeg,56,15911,1062,14318,531,1830
+1/12/21,All,148,26701,2706,23238,757,1831
+1/12/21,Interlake-Eastern,6,1963,264,1666,33,1832
+1/12/21,Northern,71,2544,1108,1410,26,1833
+1/12/21,Prairie Mountain Health,10,1748,135,1570,43,1834
+1/12/21,Southern Health-Santé Sud,7,4481,326,4034,121,1835
+1/12/21,Winnipeg,54,15965,873,14558,534,1836
+1/13/21,All,257,26958,2714,23486,758,1837
+1/13/21,Interlake-Eastern,13,1976,267,1676,33,1838
+1/13/21,Northern,136,2680,1216,1438,26,1839
+1/13/21,Prairie Mountain Health,25,1773,143,1587,43,1840
+1/13/21,Southern Health-Santé Sud,11,4492,315,4056,121,1841
+1/13/21,Winnipeg,72,16037,773,14729,535,1842
+1/14/21,All,189,27147,2796,23589,762,1843
+1/14/21,Interlake-Eastern,7,1983,270,1680,33,1844
+1/14/21,Northern,86,2766,1278,1461,27,1845
+1/14/21,Prairie Mountain Health,16,1789,148,1598,43,1846
+1/14/21,Southern Health-Santé Sud,14,4506,323,4061,122,1847
+1/14/21,Winnipeg,66,16103,777,14789,537,1848
+1/15/21,All,180,27327,2897,23663,767,1849
+1/15/21,Interlake-Eastern,10,1993,274,1686,33,1850
+1/15/21,Northern,68,2834,1324,1483,27,1851
+1/15/21,Prairie Mountain Health,10,1799,153,1603,43,1852
+1/15/21,Southern Health-Santé Sud,11,4517,324,4070,123,1853
+1/15/21,Winnipeg,81,16184,822,14821,541,1854
+1/16/21,All,183,27510,2997,23742,771,1855
+1/16/21,Interlake-Eastern,13,2006,286,1687,33,1856
+1/16/21,Northern,91,2925,1377,1520,28,1857
+1/16/21,Prairie Mountain Health,8,1807,152,1612,43,1858
+1/16/21,Southern Health-Santé Sud,9,4526,329,4074,123,1859
+1/16/21,Winnipeg,62,16246,853,14849,544,1860
+1/17/21,All,121,27631,3031,23822,778,1861
+1/17/21,Interlake-Eastern,12,2018,296,1689,33,1862
+1/17/21,Northern,44,2969,1394,1547,28,1863
+1/17/21,Prairie Mountain Health,7,1814,143,1628,43,1864
+1/17/21,Southern Health-Santé Sud,8,4534,333,4077,124,1865
+1/17/21,Winnipeg,50,16296,865,14881,550,1866
+1/18/21,All,113,27744,3035,23923,786,1867
+1/18/21,Interlake-Eastern,11,2029,301,1694,34,1868
+1/18/21,Northern,35,3004,1393,1583,28,1869
+1/18/21,Prairie Mountain Health,9,1823,134,1644,45,1870
+1/18/21,Southern Health-Santé Sud,6,4540,323,4091,126,1871
+1/18/21,Winnipeg,52,16348,884,14911,553,1872
+1/19/21,All,161,27905,3143,23971,791,1873
+1/19/21,Interlake-Eastern,18,2047,316,1697,34,1874
+1/19/21,Northern,80,3084,1446,1610,28,1875
+1/19/21,Prairie Mountain Health,5,1828,135,1648,45,1876
+1/19/21,Southern Health-Santé Sud,10,4550,327,4095,128,1877
+1/19/21,Winnipeg,48,16396,919,14921,556,1878
+1/20/21,All,210,28115,3261,24062,792,1879
+1/20/21,Interlake-Eastern,9,2056,324,1698,34,1880
+1/20/21,Northern,114,3198,1521,1649,28,1881
+1/20/21,Prairie Mountain Health,19,1847,145,1656,46,1882
+1/20/21,Southern Health-Santé Sud,13,4563,331,4104,128,1883
+1/20/21,Winnipeg,55,16451,940,14955,556,1884
+1/21/21,All,183,28298,3355,24149,794,1885
+1/21/21,Interlake-Eastern,30,2086,343,1709,34,1886
+1/21/21,Northern,65,3263,1536,1699,28,1887
+1/21/21,Prairie Mountain Health,13,1860,154,1660,46,1888
+1/21/21,Southern Health-Santé Sud,9,4572,337,4107,128,1889
+1/21/21,Winnipeg,66,16517,985,14974,558,1890
+1/22/21,All,211,28509,3509,24201,799,1891
+1/22/21,Interlake-Eastern,19,2105,360,1711,34,1892
+1/22/21,Northern,122,3385,1639,1718,28,1893
+1/22/21,Prairie Mountain Health,11,1871,153,1670,48,1894
+1/22/21,Southern Health-Santé Sud,13,4585,344,4113,128,1895
+1/22/21,Winnipeg,46,16563,1013,14989,561,1896
+1/23/21,All,220,28729,3672,24256,801,1897
+1/23/21,Interlake-Eastern,18,2123,376,1713,34,1898
+1/23/21,Northern,117,3502,1736,1738,28,1899
+1/23/21,Prairie Mountain Health,24,1895,174,1673,48,1900
+1/23/21,Southern Health-Santé Sud,3,4588,341,4119,128,1901
+1/23/21,Winnipeg,58,16621,1045,15013,563,1902
+1/24/21,All,129,28858,3734,24317,807,1903
+1/24/21,Interlake-Eastern,10,2133,386,1713,34,1904
+1/24/21,Northern,68,3570,1772,1770,28,1905
+1/24/21,Prairie Mountain Health,6,1901,174,1676,51,1906
+1/24/21,Southern Health-Santé Sud,5,4593,343,4122,128,1907
+1/24/21,Winnipeg,40,16661,1059,15036,566,1908
+1/25/21,All,63,28921,3712,24397,812,1909
+1/25/21,Interlake-Eastern,0,2133,381,1718,34,1910
+1/25/21,Northern,10,3580,1759,1793,28,1911
+1/25/21,Prairie Mountain Health,14,1915,179,1685,51,1912
+1/25/21,Southern Health-Santé Sud,2,4595,337,4129,129,1913
+1/25/21,Winnipeg,37,16698,1056,15072,570,1914
+1/26/21,All,82,29003,3709,24476,818,1915
+1/26/21,Interlake-Eastern,2,2135,381,1720,34,1916
+1/26/21,Northern,34,3614,1771,1815,28,1917
+1/26/21,Prairie Mountain Health,4,1919,170,1698,51,1918
+1/26/21,Southern Health-Santé Sud,3,4598,334,4133,131,1919
+1/26/21,Winnipeg,39,16737,1053,15110,574,1920
+1/27/21,All,130,29133,3764,24549,820,1921
+1/27/21,Interlake-Eastern,17,2152,397,1721,34,1922
+1/27/21,Northern,57,3671,1804,1839,28,1923
+1/27/21,Prairie Mountain Health,17,1936,183,1702,51,1924
+1/27/21,Southern Health-Santé Sud,8,4606,341,4134,131,1925
+1/27/21,Winnipeg,31,16768,1039,15153,576,1926
+1/28/21,All,147,29280,3490,24967,823,1927
+1/28/21,Interlake-Eastern,9,2161,392,1735,34,1928
+1/28/21,Northern,78,3749,1837,1884,28,1929
+1/28/21,Prairie Mountain Health,24,1960,195,1714,51,1930
+1/28/21,Southern Health-Santé Sud,13,4619,212,4276,131,1931
+1/28/21,Winnipeg,23,16791,854,15358,579,1932

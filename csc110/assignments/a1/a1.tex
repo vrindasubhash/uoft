@@ -1,0 +1,96 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+
+\title{CSC110 Fall 2022 Assignment 1: Written Questions}
+\author{Vrinda Subhash}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section*{Part 1: Data and Comprehensions}
+
+\begin{enumerate}
+\item[1.] \textbf{Imagine this scenario...}
+\begin{enumerate}
+\item[(a)] (The total amount of money you're planning to spend on your trip.)
+
+Floats would be best because you can represent cents as well as full dollars, whereas the int data type would only allow for full dollars.
+
+\item[(b)] (The restaurant names in your sister's ``top ten restaurants'' message, in the order of her preferences.)
+
+A List of Strings would be best because the restaurant names are Strings and since it is in order of preference, order matters so a List collection would be needed over a Set.
+
+\item[(c)] (The number of places you are staying that have laundry service.)
+
+An int would be best because the number of places that have laundry service will be a whole number.
+
+\item[(d)] (The names of the cities you will be visiting and the corresponding number of days you are staying in each city.)
+
+A Dictionary, where the keys are Strings and the value is an int. The keys are Strings because it is the name of the city and the value is an int because the number of days will probably be a whole number.
+
+\item[(e)] (Whether or not you have a valid passport.)
+
+A Boolean would be the best because whether or not you have a valid passport will be either True or False.
+\end{enumerate}
+
+\item[2.] \textbf{Exploring comprehensions.}
+
+\begin{enumerate}
+\item[(a)]
+\begin{enumerate}
+    \item[i.] ['B', 'l', 'u', 'e', 'b', 'e', 'r', 'r', 'y']
+    \item[ii.] The value's data type is a
+    List, and the elements are of type String.
+\end{enumerate}
+\item[(b)]
+\begin{enumerate}
+    \item[i.] \{'e', 'y', 'l', 'b', 'r', 'B', 'u'\}
+    \item[ii.] The value's data type is a Set, and then elements are of type String.
+    \item[iii.] This value is different than part (a) because since this is a Set, the order doesn't matter so the Strings in this Set are in a different order than the Strings in the List. Also, since this is a Set, there aren't duplicates. Since the String 'Blueberry' has two 'r' and 'e', in the List, two 'r' and 'e' are listed in the collection, but in the Set there is just one 'r' and 'e'. Because of this, the length of the two collections are different.
+\end{enumerate}
+\item[(c)]
+Expression 1 evaluates to: ['David!', 'Tom!', 'Mario!'] \\
+Expression 2 evaluates to: ['David', 'Tom', 'Mario', '!', '!', '!'] \\
+Their values are different because in the first expression a '!' was concatenated with each name in names. Whereas in the second expression, the first List comprehension just made a List that was the same as names, and then concatenated that List with another List that produced a '!' for each name in names.
+\end{enumerate}
+\end{enumerate}
+
+\section*{Part 2: Programming Exercises}
+
+Complete this part in the provided \texttt{a1\_part2.py} starter file.
+Do \textbf{not} include your solution in this LaTeX file.
+
+\section*{Part 3: Pytest Debugging Exercise}
+
+% TIP: In LaTeX, the underscore (_) is a special character, so if you want to use it
+% in normal text, you have to put a backslash in front of it. E.g., a1\_part2.py,
+% not a1_part2.py.
+
+\begin{enumerate}
+\item[1.]
+test\_two\_customers failed \\
+test\_just\_food failed \\
+test\_single\_bill passed
+
+
+\item[2.]
+The error that caused test\_just\_food to fail is that in the get\_largest\_bill function, when the calculate\_total\_cost function was called, the parameters were switched. The keys were used in the wrong order. So, once I flipped them so that bill['food'] was the first parameter and bill['songs'] was the second, that test passed. \\
+The error that caused test\_two\_customers to fail is the test case. In the test case, the dictionary had the keys as 'Food' and 'Songs', where as in the get\_largest\_bill function the keys it searches for is 'food' and 'songs'. By changing the casing to match, the test passed.
+
+\item[3.]
+test\_single\_bill passed even with the errors in the code because in the test case, the dictionary had the proper keys of 'food' and 'songs'. And, since in the test case, the values for 'food' and 'songs' were both 10, even though the parameters were in the wrong order for the call to the calculate\_total\_cost function in the get\_largest\_bill function, it didn't matter since the values for 'food' and 'songs' were the same.
+\end{enumerate}
+
+\section*{Part 4: Colour Rows}
+
+Complete this part in the provided \texttt{a1\_part4.py} starter file.
+Do \textbf{not} include your solution in this LaTeX file.
+
+\section*{Part 5: Working with Image Data}
+
+Complete this part in the provided \texttt{a1\_part5.py} starter file.
+Do \textbf{not} include your solution in this LaTeX file.
+
+\end{document}

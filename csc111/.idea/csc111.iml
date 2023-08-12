@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lectures/week12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/miscellaneous" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/preps/week12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorials/week12" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

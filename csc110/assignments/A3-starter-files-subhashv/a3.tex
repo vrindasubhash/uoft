@@ -1,0 +1,44 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+
+\title{CSC110 Fall 2022 Assignment 3: Loops, Mutation, and Applications}
+\author{Vrinda Subhash}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section*{Part 1: Data Analysis with Toronto Health}
+
+Complete this part in the provided \texttt{a3\_part1.py} file.
+Do \textbf{not} include your solutions in this file.
+
+\section*{Part 2: Loops and Mutation Debugging Exercise}
+
+\begin{enumerate}
+\item[1.]
+test\_star\_wars PASSED \\
+test\_legally\_blonde FAILED \\
+test\_transformers FAILED
+
+\item[2.]
+test\_legally\_blonde failed because in the clean\_text function, it was not properly converting the text to be lowercase. The code that was written to make the text lowercase just called str.lower on text, which returns a string, but that string was not assigned to anything and since str.lower does not mutate, the text was not changed to be lowercase. So, I changed the code to use variable reassignment to assign str.lower(text) to text so now text is the lowercase version. In the legally blonde review, a couple of the lexicon keywords started with an uppercase letter, and since the clean\_text function was not making the text lowercase, when the count\_keywords function was called on the word\_list, the accumulator would not include those few lexicon keywords, since those words wouldn't be found in WORD\_TO\_INTENSITY since all the words in WORD\_TO\_INTENSITY are all lowercase. So, the average intensity was calculated without all of the lexicon words, therefore an inaccurate average intensity was calculated.
+
+test\_transformers failed because the count\_keywords function was not properly accumulating the occurrences of lexicon keywords in the text. Prior to fixing the error, count\_keywords would check each word in the word\_list to see if it's in WORD\_TO\_INTENSITY, and if it is, it will see if it's not already in the dictionary accumulator. And if it isn't, the word will get added, and its value would be set to 0 and then get 1 added to it in a variable reassignment in the next line. This means that if there are duplicate words that are in WORD\_TO\_INTENSITY, nothing will happen to its value in the accumulator dictionary because there was no else statement for it the word is already in the dictionary. So, I changed the inner if-statement to be such that if the word is a WORD\_TO\_INTENSITY and it isn't in the dictionary, then it will be added and its' value will be set to 1, and if it the word is already in the dictionary, then its' value will be reassigned to what it was before, plus 1. Since the transformers review had the word 'terrible' twice, only the first terrible got accounted for and so the average intensity did not calculate the accurate value.
+
+\item[3.]
+test\_star\_wars passed on the original code since the star wars review text did not have any lexicon words that had a capital letter in it and since each lexicon word only appeared once. Since all the lexicon words in the text were lowercase to begin with, the count\_keywords function was able to find all the lexicon words in the text. And, since it didn't have any repeat words, the count\_keywords properly accumulated the occurrences of lexicon words.
+
+
+
+\end{enumerate}
+
+\section*{Part 3: Chaos, Fractals, Point Sequences}
+
+Complete this part in the provided \texttt{a3\_part3.py} starter file.
+Do \textbf{not} include your solutions in this file.
+
+\end{document}
