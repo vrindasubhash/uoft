@@ -1,0 +1,22 @@
+@startuml
+actor User
+control "SignUpController"
+boundary "InputBoundary"
+entity "Interactor"
+boundary "OutputBoundary"
+entity "DataAccessInterface"
+database "DataAccessObject"
+
+User -> "SignUpController" : execute()
+"SignUpController" -> "InputBoundary" : input(data)
+"InputBoundary" -> "Interactor" : execute()
+"Interactor" -> "OutputBoundary" : output()
+"OutputBoundary" -> "DataAccessInterface" : save(user)
+"DataAccessInterface" -> "DataAccessObject" : insert(user)
+"DataAccessObject" --> "DataAccessInterface" : return result
+"DataAccessInterface" --> "OutputBoundary" : return result
+"OutputBoundary" --> "Interactor" : return result
+"Interactor" --> "InputBoundary" : return result
+"InputBoundary" --> "SignUpController" : return result
+"SignUpController" --> User : return result
+@enduml

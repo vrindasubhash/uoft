@@ -1,0 +1,22 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+autonumber 1.1
+GenerateMealsController -> GenerateMealsInputData: generateMealsInputData(UserPreference userInputData)
+GenerateMealsController -> GenerateMealsInteractor: execute(UserPreference userInputData)
+
+autonumber 2.1
+GenerateMealsInteractor -> GenerateMealsInputData: getHealthPreferences()
+GenerateMealsInteractor -> GenerateMealsInputData: getDietPreferences()
+GenerateMealsInteractor -> GenerateMealsInputData: getCuisinePreferences()
+
+autonumber 3
+GenerateMealsInteractor -> GenerateMealsOutputData: output(Meal meal)
+
+autonumber 4
+GenerateMealsInteractor -> GenerateMealsOutputBoundary: prepareFailView()
+
+
+@enduml

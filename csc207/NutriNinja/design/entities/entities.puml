@@ -1,0 +1,39 @@
+@startuml
+!pragma layout smetana
+'https://plantuml.com/class-diagram
+CommonUser *-- UserPreference
+UserPreference *-- NutrientRange
+NutrientRange *-- Range
+
+interface User {
+    String getUsername()
+    String getPassword()
+    UserPreference getPreferences()
+}
+
+class CommonUser implements User {
+- private String username
+- private String password
+- private List<Meal> meals
+- private UserPreference preferences
+}
+
+class UserPreference {
+- private NutrientRange nutrientRange
+- private List<String> healthPreferences
+- private List<String> dishType
+}
+
+class NutrientRange {
+- private Range calorieRange
+- private Range fatRange
+- private Range proteinRange
+- private Range carbRange
+}
+
+
+class Range {
+    private int lowerBound
+    private int upperBound
+}
+@enduml

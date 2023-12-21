@@ -1,0 +1,430 @@
+commit 091300eae1161f1bd60260a156974ead829d4755
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sun Nov 5 01:07:34 2023 -0500
+
+    Completed Task 4: Ran WeekTest.java with coverage and saved the screenshot of 100% coverage and saved it as coverage.png in this directory.
+
+ week8git/coverage.png | Bin 0 -> 48057 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5aabcc2a582ad7e40d7a9e1586649d83b8d75b30
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sun Nov 5 01:54:36 2023 -0400
+
+    Completed Task 3: Created the UML diagram and added the png file to the week8git directory
+
+ week8git/week-iterator-uml.png | Bin 0 -> 100999 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit df18dee380f36161648975e8b83465ac4d4065dc
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sun Nov 5 01:22:21 2023 -0400
+
+    Completed Task 2: Added test case to WeekTest and threw NoSuchElementException in next(), and re-ran tests.
+
+ week8git/src/Week.java      |  6 +++++-
+ week8git/test/WeekTest.java | 19 +++++++++++++++++++
+ 2 files changed, 24 insertions(+), 1 deletion(-)
+
+commit 9654cb202b8d384964551e649bbd749dc4dd777f
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sun Nov 5 01:05:29 2023 -0400
+
+    Finished task 1: implemented iterable and iterator and passed tests.
+
+ week8git/src/Week.java | 32 +++++++++++++++++++++++++++++---
+ 1 file changed, 29 insertions(+), 3 deletions(-)
+
+commit 1845b7eb20bf52eb48655123a235cd8e5ec13778
+Author: subhashv <markus@markus.com>
+Date:   Sat Nov 4 23:47:40 2023 -0400
+
+    Update files
+
+ week8git/README.md                 | 119 +++++++++++++++++++++++++++++++++++++
+ week8git/src/.gitkeep              |   0
+ week8git/src/Week.java             |  19 ++++++
+ week8git/test/.gitkeep             |   0
+ week8git/test/WeekTest.java        |  71 ++++++++++++++++++++++
+ week8git/uml-solution-redacted.png | Bin 0 -> 129497 bytes
+ 6 files changed, 209 insertions(+)
+
+commit a61ab3f4503042b139a0937e9c08c1bc8a5fcd50
+Author: Markus <markus@markus.com>
+Date:   Sat Nov 4 23:46:57 2023 -0400
+
+    Create assignment folder for week8git
+
+ week8git/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c889ff91b32cf8a421b2a4eb29ec923f49c6fcb3
+Author: Markus <markus@markus.com>
+Date:   Sat Nov 4 23:45:43 2023 -0400
+
+    Create assignment folder for week5ca-makeup
+
+ week5ca-makeup/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit be5af6573bcfcb4914507aeadd867051f6872209
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Mon Oct 23 20:15:08 2023 -0400
+
+    pdf
+
+ week7design/week7design.pdf | Bin 0 -> 29675 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6db8e1d4091559ba7807d7086db022e2a8ff7524
+Author: Markus <markus@markus.com>
+Date:   Mon Oct 23 14:50:14 2023 -0400
+
+    Create assignment folder for week7design
+
+ week7design/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 04abcea7505cbd67309dd4c4f477b7261c567bee
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sun Oct 22 18:58:33 2023 -0400
+
+    week5ca
+
+ week5ca/CACoding.iml                               |  25 +++
+ week5ca/README.md                                  | 134 +++++++++++++
+ .../CACoding/app/LoginUseCaseFactory.class         | Bin 0 -> 2349 bytes
+ week5ca/out/production/CACoding/app/Main.class     | Bin 0 -> 3177 bytes
+ .../CACoding/app/SignupUseCaseFactory.class        | Bin 0 -> 2802 bytes
+ .../data_access/FileUserDataAccessObject.class     | Bin 0 -> 5065 bytes
+ .../data_access/InMemoryUserDataAccessObject.class | Bin 0 -> 1460 bytes
+ .../production/CACoding/entity/CommonUser.class    | Bin 0 -> 830 bytes
+ .../CACoding/entity/CommonUserFactory.class        | Bin 0 -> 674 bytes
+ .../CACoding/entity/PasswordValidator.class        | Bin 0 -> 172 bytes
+ .../CACoding/entity/PasswordValidatorService.class | Bin 0 -> 575 bytes
+ week5ca/out/production/CACoding/entity/User.class  | Bin 0 -> 215 bytes
+ .../production/CACoding/entity/UserFactory.class   | Bin 0 -> 206 bytes
+ .../interface_adapter/UserCreationFailed.class     | Bin 0 -> 387 bytes
+ .../interface_adapter/ViewManagerModel.class       | Bin 0 -> 1152 bytes
+ .../CACoding/interface_adapter/ViewModel.class     | Bin 0 -> 590 bytes
+ .../clear_users/ClearController.class              | Bin 0 -> 1629 bytes
+ .../clear_users/ClearPresenter.class               | Bin 0 -> 327 bytes
+ .../interface_adapter/clear_users/ClearState.class | Bin 0 -> 315 bytes
+ .../clear_users/ClearViewModel.class               | Bin 0 -> 645 bytes
+ .../logged_in/LoggedInState.class                  | Bin 0 -> 755 bytes
+ .../logged_in/LoggedInViewModel.class              | Bin 0 -> 1726 bytes
+ .../interface_adapter/login/LoginController.class  | Bin 0 -> 855 bytes
+ .../interface_adapter/login/LoginPresenter.class   | Bin 0 -> 1981 bytes
+ .../interface_adapter/login/LoginState.class       | Bin 0 -> 1435 bytes
+ .../interface_adapter/login/LoginViewModel.class   | Bin 0 -> 1640 bytes
+ .../signup/SignupController.class                  | Bin 0 -> 922 bytes
+ .../interface_adapter/signup/SignupPresenter.class | Bin 0 -> 2405 bytes
+ .../interface_adapter/signup/SignupState.class     | Bin 0 -> 2299 bytes
+ .../interface_adapter/signup/SignupViewModel.class | Bin 0 -> 1713 bytes
+ .../use_case/clear_users/ClearInputBoundary.class  | Bin 0 -> 199 bytes
+ .../use_case/clear_users/ClearInputData.class      | Bin 0 -> 309 bytes
+ .../use_case/clear_users/ClearInteractor.class     | Bin 0 -> 379 bytes
+ .../use_case/clear_users/ClearOutputBoundary.class | Bin 0 -> 140 bytes
+ .../use_case/clear_users/ClearOutputData.class     | Bin 0 -> 312 bytes
+ .../clear_users/ClearUserDataAccessInterface.class | Bin 0 -> 254 bytes
+ .../use_case/login/LoginInputBoundary.class        | Bin 0 -> 187 bytes
+ .../CACoding/use_case/login/LoginInputData.class   | Bin 0 -> 633 bytes
+ .../CACoding/use_case/login/LoginInteractor.class  | Bin 0 -> 2049 bytes
+ .../use_case/login/LoginOutputBoundary.class       | Bin 0 -> 251 bytes
+ .../CACoding/use_case/login/LoginOutputData.class  | Bin 0 -> 553 bytes
+ .../login/LoginUserDataAccessInterface.class       | Bin 0 -> 283 bytes
+ .../use_case/signup/SignupInputBoundary.class      | Bin 0 -> 192 bytes
+ .../CACoding/use_case/signup/SignupInputData.class | Bin 0 -> 791 bytes
+ .../use_case/signup/SignupInteractor.class         | Bin 0 -> 2188 bytes
+ .../use_case/signup/SignupOutputBoundary.class     | Bin 0 -> 256 bytes
+ .../use_case/signup/SignupOutputData.class         | Bin 0 -> 825 bytes
+ .../signup/SignupUserDataAccessInterface.class     | Bin 0 -> 236 bytes
+ .../production/CACoding/view/LabelTextPanel.class  | Bin 0 -> 504 bytes
+ .../production/CACoding/view/LoggedInView.class    | Bin 0 -> 2518 bytes
+ .../out/production/CACoding/view/LoginView$1.class | Bin 0 -> 1567 bytes
+ .../out/production/CACoding/view/LoginView$2.class | Bin 0 -> 1716 bytes
+ .../out/production/CACoding/view/LoginView$3.class | Bin 0 -> 1724 bytes
+ .../out/production/CACoding/view/LoginView.class   | Bin 0 -> 3803 bytes
+ .../production/CACoding/view/SignupView$1.class    | Bin 0 -> 1722 bytes
+ .../production/CACoding/view/SignupView$2.class    | Bin 0 -> 992 bytes
+ .../production/CACoding/view/SignupView$3.class    | Bin 0 -> 1843 bytes
+ .../production/CACoding/view/SignupView$4.class    | Bin 0 -> 1807 bytes
+ .../production/CACoding/view/SignupView$5.class    | Bin 0 -> 1813 bytes
+ .../out/production/CACoding/view/SignupView.class  | Bin 0 -> 4476 bytes
+ .../out/production/CACoding/view/ViewManager.class | Bin 0 -> 1338 bytes
+ .../out/test/CACoding/view/ClearUsersTest$1.class  | Bin 0 -> 2155 bytes
+ .../out/test/CACoding/view/ClearUsersTest.class    | Bin 0 -> 4946 bytes
+ week5ca/src/app/LoginUseCaseFactory.java           |  56 ++++++
+ week5ca/src/app/Main.java                          |  68 +++++++
+ week5ca/src/app/SignupUseCaseFactory.java          |  52 +++++
+ .../src/data_access/FileUserDataAccessObject.java  | 109 ++++++++++
+ .../data_access/InMemoryUserDataAccessObject.java  |  39 ++++
+ week5ca/src/entity/CommonUser.java                 |  36 ++++
+ week5ca/src/entity/CommonUserFactory.java          |  17 ++
+ week5ca/src/entity/PasswordValidator.java          |   6 +
+ week5ca/src/entity/PasswordValidatorService.java   |   7 +
+ week5ca/src/entity/User.java                       |  12 ++
+ week5ca/src/entity/UserFactory.java                |   8 +
+ .../src/interface_adapter/UserCreationFailed.java  |   7 +
+ .../src/interface_adapter/ViewManagerModel.java    |  29 +++
+ week5ca/src/interface_adapter/ViewModel.java       |  20 ++
+ .../clear_users/ClearController.java               |  31 +++
+ .../clear_users/ClearPresenter.java                |   6 +
+ .../interface_adapter/clear_users/ClearState.java  |   6 +
+ .../clear_users/ClearViewModel.java                |  23 +++
+ .../interface_adapter/logged_in/LoggedInState.java |  19 ++
+ .../logged_in/LoggedInViewModel.java               |  49 +++++
+ .../interface_adapter/login/LoginController.java   |  22 +++
+ .../interface_adapter/login/LoginPresenter.java    |  45 +++++
+ .../src/interface_adapter/login/LoginState.java    |  50 +++++
+ .../interface_adapter/login/LoginViewModel.java    |  42 ++++
+ .../interface_adapter/signup/SignupController.java |  19 ++
+ .../interface_adapter/signup/SignupPresenter.java  |  47 +++++
+ .../src/interface_adapter/signup/SignupState.java  |  80 ++++++++
+ .../interface_adapter/signup/SignupViewModel.java  |  44 +++++
+ .../use_case/clear_users/ClearInputBoundary.java   |   9 +
+ .../src/use_case/clear_users/ClearInputData.java   |   6 +
+ .../src/use_case/clear_users/ClearInteractor.java  |  17 ++
+ .../use_case/clear_users/ClearOutputBoundary.java  |   6 +
+ .../src/use_case/clear_users/ClearOutputData.java  |   6 +
+ .../clear_users/ClearUserDataAccessInterface.java  |  12 ++
+ week5ca/src/use_case/login/LoginInputBoundary.java |   5 +
+ week5ca/src/use_case/login/LoginInputData.java     |  21 ++
+ week5ca/src/use_case/login/LoginInteractor.java    |  34 ++++
+ .../src/use_case/login/LoginOutputBoundary.java    |   7 +
+ week5ca/src/use_case/login/LoginOutputData.java    |  17 ++
+ .../login/LoginUserDataAccessInterface.java        |  11 ++
+ .../src/use_case/signup/SignupInputBoundary.java   |   5 +
+ week5ca/src/use_case/signup/SignupInputData.java   |  26 +++
+ week5ca/src/use_case/signup/SignupInteractor.java  |  37 ++++
+ .../src/use_case/signup/SignupOutputBoundary.java  |   7 +
+ week5ca/src/use_case/signup/SignupOutputData.java  |  28 +++
+ .../signup/SignupUserDataAccessInterface.java      |   9 +
+ week5ca/src/view/LabelTextPanel.java               |  13 ++
+ week5ca/src/view/LoggedInView.java                 |  62 ++++++
+ week5ca/src/view/LoginView.java                    | 130 ++++++++++++
+ week5ca/src/view/SignupView.java                   | 182 +++++++++++++++++
+ week5ca/src/view/ViewManager.java                  |  29 +++
+ week5ca/test/view/ClearUsersTest.java              | 219 +++++++++++++++++++++
+ week5ca/testsPassing.png                           | Bin 0 -> 493937 bytes
+ week5ca/users.csv                                  |   1 +
+ 117 files changed, 2007 insertions(+)
+
+commit 2c6a062514e049bc62bf674635e793bb7daf6874
+Author: Markus <markus@markus.com>
+Date:   Fri Oct 13 18:26:56 2023 -0400
+
+    Create assignment folder for week5ca
+
+ week5ca/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 66dddaa4b4365d1434e37807aa8f216868b20c01
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sun Oct 8 21:03:18 2023 -0400
+
+    done
+
+ week4ca/src/view/SignupView.java | 154 ++++++++++++++++++++++++++++++++++++++-
+ week4ca/testPassing.png          | Bin 0 -> 504446 bytes
+ 2 files changed, 152 insertions(+), 2 deletions(-)
+
+commit c211422e66179d38d27be522f72704ffb456a618
+Author: subhashv <markus@markus.com>
+Date:   Sun Oct 8 17:14:58 2023 -0400
+
+    Update files
+
+ week4ca/src/.gitkeep                  |   0
+ week4ca/src/view/.gitkeep             |   0
+ week4ca/src/view/SignupView.java      |   2 +
+ week4ca/test/.gitkeep                 |   0
+ week4ca/test/view/.gitkeep            |   0
+ week4ca/test/view/SignupViewTest.java | 104 ++++++++++++++++++++++++++++++++++
+ 6 files changed, 106 insertions(+)
+
+commit b7cbaa5bcb708bcb110a1cafd1e81cf51159682a
+Author: Markus <markus@markus.com>
+Date:   Sun Oct 8 17:04:02 2023 -0400
+
+    Create assignment folder for week4ca
+
+ week4ca/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f4801547a5c8c9fd7e5dc29efd65be7d4af307c0
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Fri Sep 29 18:23:04 2023 -0400
+
+    fixed file path
+
+ week3git/src/Problem18.java | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit ca2e69d6fb6cfc2c7849ffba709dbe3859fe4d48
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Fri Sep 29 18:19:45 2023 -0400
+
+    TODOs done
+
+ week3git/src/NumberTriangle.java | 98 +++++++++++++++++++++++++++++++++++++---
+ week3git/src/Problem18.java      | 60 ++++++++++++++++++++++--
+ 2 files changed, 147 insertions(+), 11 deletions(-)
+
+commit 90366abf761fa0d448818ec5b3e5d42122f84de4
+Author: subhashv <markus@markus.com>
+Date:   Wed Sep 27 19:42:04 2023 -0400
+
+    Update files
+
+ week3git/input_tree.txt          | 15 +++++++
+ week3git/little_tree.txt         |  2 +
+ week3git/readme.md               |  5 +++
+ week3git/src/.gitkeep            |  0
+ week3git/src/NumberTriangle.java | 95 ++++++++++++++++++++++++++++++++++++++++
+ week3git/src/Problem18.java      | 76 ++++++++++++++++++++++++++++++++
+ week3git/test/.gitkeep           |  0
+ week3git/test/Problem18Test.java | 49 +++++++++++++++++++++
+ 8 files changed, 242 insertions(+)
+
+commit 6437110cbc0552f63b5d02dbeffb13f3d5c0683e
+Author: Markus <markus@markus.com>
+Date:   Tue Sep 26 10:10:19 2023 -0400
+
+    Create assignment folder for week3git
+
+ week3git/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d2bc99829f3fed58afbbd8d1f8974430b6c41b22
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sat Sep 23 03:42:17 2023 -0400
+
+    pushing main
+
+ week2git/src/Main.java | 4 ----
+ 1 file changed, 4 deletions(-)
+
+commit 68129cfcf50d03027c6eb76c8846d721e51d4f7d
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Sat Sep 23 03:40:57 2023 -0400
+
+    removed todos
+
+ week2git/src/BST.java         | 11 -----------
+ week2git/src/BSTMultiSet.java |  5 -----
+ 2 files changed, 16 deletions(-)
+
+commit 9364a0e2e5dcc94135ab01fc6ef94b3ed01c55d5
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Fri Sep 22 01:26:30 2023 -0400
+
+    started
+
+ week2git/src/BST.java         | 109 +++++++++++++++++++++++++++++++++++++++---
+ week2git/src/BSTMultiSet.java |  30 ++++++++++++
+ 2 files changed, 133 insertions(+), 6 deletions(-)
+
+commit a5b16cb38c239b88383ce06d1d6c3f1274659136
+Author: subhashv <markus@markus.com>
+Date:   Thu Sep 21 19:59:22 2023 -0400
+
+    Update files
+
+ week2git/python/.gitkeep         |   0
+ week2git/python/adts_homework.py | 280 +++++++++++++++++++++++++++++++++++++++
+ week2git/readme.md               |  21 +++
+ week2git/src/.gitkeep            |   0
+ week2git/src/BST.java            |  94 +++++++++++++
+ week2git/src/BSTMultiSet.java    |  12 ++
+ week2git/src/Main.java           |  68 ++++++++++
+ week2git/src/MultiSet.java       |  41 ++++++
+ 8 files changed, 516 insertions(+)
+
+commit 493eb1c2da96b3ebb78b6ddae3a51ca594a123ea
+Author: Markus <markus@markus.com>
+Date:   Thu Sep 21 19:43:03 2023 -0400
+
+    Create assignment folder for week2git
+
+ week2git/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit dbcb73c8f14df0dc4dbdb8f9fdde8132c5405f07
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Thu Sep 14 00:33:48 2023 -0400
+
+    complete
+
+ week1git/Reduce.java | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit c0db6c91a90fd9c91e4b3b6f576d479ecd7673b1
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Thu Sep 14 00:30:49 2023 -0400
+
+    complete
+
+ week1git/Multiples.java | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit cfaa75ce659048e12616dd05e3dd8bfcf37856bc
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Thu Sep 14 00:18:15 2023 -0400
+
+    updated files
+
+ week1git/Multiples.java | 2 +-
+ week1git/Reduce.java    | 8 ++++++--
+ 2 files changed, 7 insertions(+), 3 deletions(-)
+
+commit e3e86923149bea5c4a2459bc72bd898e042b5109
+Author: Vrinda Subhash <vrindasubhashc@gmail.com>
+Date:   Wed Sep 13 23:57:19 2023 -0400
+
+    mutliples added
+
+ week1git/Multiples.java | 20 ++++++++++++++++++++
+ week1git/Reduce.java    | 18 ++++++++++++++++++
+ 2 files changed, 38 insertions(+)
+
+commit bd5eb224b12e81dbb12b49581488b52e36af0913
+Author: subhashv <markus@markus.com>
+Date:   Mon Sep 11 20:56:10 2023 -0400
+
+    Update files
+
+ week1git/readme.md | 91 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 91 insertions(+)
+
+commit bc384cd12ea471c1c1a6046c5c1e6ad2c0723ea7
+Author: Markus <markus@markus.com>
+Date:   Mon Sep 11 20:48:52 2023 -0400
+
+    Create assignment folder for week1git
+
+ week1git/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d817f49f55d75c56c032ddd07dccc9e7958e4460
+Author: Markus <markus@markus.com>
+Date:   Mon Sep 11 15:08:03 2023 -0400
+
+    Create assignment folder for Java-Practice
+
+ Java-Practice/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 080ad61b80abe35bef5909046f39ff0f63b95e06
+Author: Markus <markus@markus.com>
+Date:   Mon Sep 11 15:08:03 2023 -0400
+
+    Initial commit
+
+ .max_file_size                                     |  1 +
+ .required                                          |  3 ++
+ markus-hooks/pre-commit                            | 21 ++++++++
+ .../pre-commit.d/02-block_change_top_level.sh      | 22 ++++++++
+ .../pre-commit.d/03-check_required_files.sh        | 58 ++++++++++++++++++++++
+ .../pre-commit.d/04-file_size_too_large.sh         | 14 ++++++
+ 6 files changed, 119 insertions(+)
