@@ -1,0 +1,8 @@
+To get a login shell:
+  ssh subhashv@teach.cs.utoronto.ca
+
+To copy a file from laptop to the lab machine:
+  scp ./filename subhashv@teach.cs.utoronto.ca:~/
+
+To copy a file from lab to laptop
+  scp subhashv@teach.cs.utoronto.ca:~/filename ./
