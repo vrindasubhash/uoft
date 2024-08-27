@@ -1,0 +1,225 @@
+Week 7 (Processes)
+- pid_t fork(void)
+  - duplicates the current process 
+  - calling process is known as the parent
+  - the new process is the child
+  - the forked one (child) will have a fork() return value of 0
+  - the the forks return value will be the child's PID for the parent
+  - can only wait for child processes
+    - wait system call will wait for any child process to finish
+    - waitpid system call waits for a specific child process to finish
+      - give it a specific pid_t pid to check on
+      - the status argument will have information about how the child exited
+
+
+- exec
+  - 3 variations: l, v, p
+  - int execl are variadic functions
+  - int execv are variants that take null-terminated array of strings (most used)
+  - p variants look for programs in installation paths
+
+
+Week 8 (Inter-Process Communication)
+- processes are isolated from eachother
+- processes do not share anything
+  - each has its own memory (address space)
+  - each has its own CPU
+- IPC is any mechanism that allows processes to communicate with eachother
+Can do this a few ways:
+1. using exit code and wait()
+  - wait system call 
+  - exit status needs to be extracted from the status information
+  - use WIFEXITED(status) to get the exit status
+    - will return true if the child exited normally 
+    - then use WEXITSTATUS(status) to return the exit status of the child process  
+2. low-level IO
+  - streams are implemented with file descriptors
+  - file descriptors
+    - an ID value used by OS to index into the open file table
+    - must use system calls to access this table
+  - operations on FDs are similar to streams
+3. pipes
+  - creates a unidirectional communication channel 
+  - int pipe(int pipefd[2]);
+    pipefd will be updated with two valid file descriptors 
+    pipefd[0] is for reading only
+    pipefd[1] is for writing only
+4. dup2
+  - duplicates a file descriptor to another 
+  - allows us to implement shell redirection and shell piping
+   
+
+Week 9 (Signals)
+- Function pointers
+  - an address that refers to the start of a function's code
+  - name of a function is also a value of type function pointer 
+  - a variable can be of type function pointer
+    - void pretty(const char *s, int i );
+      void (*f)(const char*, int) // declare a variable named f
+      f = pretty // assign f to a function of the same signature
+      f("hello world", 5); // call the function that f points to
+- Signals
+  - a signal is a mechanism that allows a process or operating system to interrupt a running process and notify the process that an event has occured
+  - the format is kill -<signal name> <PID>
+  - ps command is short for process status... shows information on running processes in the system
+  - to add a program to the background of the shell you can add & to the end of the command
+    - ex. ./hello bob & 
+  - fg resumes a background process and brings it to the front
+  - a signal handler is a function that is called when the process recieves a signal
+    - used to override the default behavior for handling a signal
+  - struct sigaction
+    - a struct that encodes information about the new handler
+    - use this to change the behavior of existing signals
+      - declare/define a function of the appropriate function signature
+      - use handler to initialize sigaction
+      - after creating the signal handler, you can install it for a specific signal
+
+
+
+Week 10 (Sockets and Select)
+- Sockets
+  - a communication endpoint that allows processes to communicate with each other across a network on different computers
+  - sockets are represented as file descriptors
+  - can use read() and write() to communicate to the other endpoint
+  - can use close() to destroy an open socket
+  - sockets are bidirectional 
+    - an endpoint can be used both for reading and writing
+  - server and clients
+    - server binds, listens and accepts 
+    - client connects
+  - text data needs to end in "\r\n" (DOS line ending)
+  - binary data is numeric data which is represented in big-endian
+  - struct sockaddr_in is used to represent an internet address
+  - declare it and then zero it out
+  - set port number in network byte order
+  - use inet_pton to convert address in string to struct in_addr
+  - bind() to assign an address to a socket (server side)
+  - listen() marks a socket as ready to accept connections
+    - use only after bind() is called
+  - accept() establishes a connection with a client
+    - use after listen() is called
+    - will block if there are currently no pending connections
+    - int accept(int sockfd, struct sockaddr *addr, socklen_t *addrlen);
+      - sockfd: the server socket that is listening for connections
+      - addr: a pointer to a struct that will store the address information of the client
+      - addrlen: a pointer to the size of the struct
+      - returns a file descriptor to a new socket used to communicate with the client
+   - connect() connects the socket to a server
+     - used when setting up a client side socket
+- Select
+  - a server typically handles multiple concurrent clients so you need a way to multiplex between them
+    - fd_set: a bit array that represents a set of file descriptors
+      - FD_ZERO(fd_set *set): clears the entire set
+      - FD_SET(int filedes, fd_set  *set): add a file descriptor to a set
+      - FD_CLR(int filedes, fd_set *set): remove a file descriptor from a set
+      - bool FD_ISSET(int filedes, const fd_set *set): check to see if a file descriptor is in a set 
+  - a system call that blocks until there is activity on any of the specified sets of file descriptors, or if the timeout period has expired
+  - upon successful return, each of the argument sets is overwritten such that only the file descriptors that are ready will remain in the set
+
+Week 10 (Intro to Shell Programming)
+  - comments are denoted by # not //
+  - shell scripts end in .sh 
+  - script should start with shebang (#!/bin/bash)
+  - script file should be executable, chmod a+x
+  - variable can be defind or reassigned using = (no spaces between)
+  - variables can be used by adding a $ in front of the name
+    - surround name with braces {}  to avoid ambiguity 
+    - $? is the exit status of the last command
+    - $# gives the number of argument 
+    - $@ gives all of the arguments, seperated by spaces
+  - quotation marks
+    - single quotes
+      - string literal without any expansion
+        - ex. var=123
+              echo 'var is $var'
+              var is $var
+    - double quotes
+      - string literal where special characters ($, \, !) are expanded
+        - ex. echo "var is $var"
+              var is 123
+  - shell blindly does variable expansion; so if a variable has whitespace, it can become multiple agruments
+    - use quotes to preserve grouping when variables are expanded
+  - store output of command as a variable 
+    - the command is run and the standard output is captured
+  - read commands
+    - define variables from standard input
+    - for multiple variables, a line is tokenized by space characters
+      - read will put the variables seperated by the spaces
+  - expr command
+    - returns the result of an arithmetic operation
+      - ex. expr 4 + 5 # returns 9
+            expr 3 \* 4 # returns 12
+            modern approach:
+            syntax: $((<arithetic expression>))
+              ex. var=$((3*4))
+                  echo $var
+                  >> 12
+  - checks and comparisons
+    - checks if a path is a directory
+      ex. test -d library
+    - tests if a string is not empty
+      ex. test -n ""
+    - test whether first number is less than the second number
+      ex. test 1 -lt 2
+  - if statements (branch is chosen based on the exit status of the command)
+    exit status of 0 corresponds to true, everything else is false
+    syntax: if <command>; then
+            elif <command>; then
+            else 
+            fi
+  - for loops
+    - syntax: for <name> in <sequence>; do
+              ...	
+              done
+    - <sequence> just has to be any space delimited text eg. "1 2 3 4"
+    - seq command 
+      - like range() in python, however seq is inclusive
+        ex. for n in $(seq 1 5); do
+              echo $n # 1 2 3 4 5
+            done
+    - glob is a wild card character
+      ex. *.txt is any file that ends in .txt
+      - can use it as the sequence in a for loop
+        ex. for file in files/*; do
+              echo $file
+            done
+    - while loop
+      syntax: while <command>; do
+                ...
+              done
+      
+      ex. n=0
+          while [ $n -ne 5 ]; do
+            echo $n
+            n=$(($n + 1))
+          done
+
+
+Exit Code Values and their meanings:
+0 : program exited successfully
+1 : generic error code that says the program has encountered an undefined error. catch all for generic errors
+2 : misuse of shell commands; incorrect usage, invalid arguments, missing arguments, typing error in command-line. More specific than error code 1.  
+127 : command not found.
+ 
+
+gdb commands:
+gdb executable: start gdb on this executable
+list [n]: list some of the code starting from line n or from the end of last call 
+break [n or fun_name] : set a breakpoint either at line n or from the end of last call to list
+run [args] : begin executation with these command line arguments
+next : execute one line
+step : step into the function on the current line
+print variable or expression : print the value once
+display variable or expression : print the value after every gdb command 
+continue : execute up to the next breakpoint
+quit : bye bye!
+
+
+THING TO UNDERSTAND
+- fork
+- pipe
+- socket
+- dup2
+- exec
+- select
+
