@@ -1,0 +1,11 @@
+*.o
+*.bak
+as_client
+as_server
+stream_debugger
+*.exe
+library
+saved
+*.s
+*.d
+*~

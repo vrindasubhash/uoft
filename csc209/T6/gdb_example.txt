@@ -1,0 +1,260 @@
+Script started on 2024-02-15 20:26:27-05:00 [TERM="xterm-256color" TTY="/dev/pts/20" COLUMNS="159" LINES="45"]
+]0;subhashv@wolf:/h/u9/c2/01/subhashv/csc209/subhashv/T6[?2004hwolf:~/csc209/subhashv/T6$ gdb overflow
+[?2004l[35;1mGNU gdb (Ubuntu 12.1-0ubuntu1~22.04) 12.1[m
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from [32moverflow[m...
+[?2004h(gdb) break main
+[?2004lBreakpoint 1 at [34m0x11b5[m: file [32moverflow.c[m, line 6.
+[?2004h(gdb) run
+[?2004lStarting program: [32m/h/u9/c2/01/subhashv/csc209/subhashv/T6/overflow[m 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "[32m/lib/x86_64-linux-gnu/libthread_db.so.1[m".
+
+Breakpoint 1, [33mmain[m () at [32moverflow.c[m:6
+6       [32mint[m [01mmain[m[31m()[m [31m{[m
+[?2004h[?2004l[?2004h(gdb) display after
+[?2004l1: after = {-4983, 32767, 100, 0}
+[?2004h(gdb) list
+[?2004l1       [01;34m#include[m [31m<stdio.h>[m
+2       
+3       [01;34m#define[m SIZE [35m4[m
+4       [01;34m#define[m OVERFLOW [35m5[m
+5       
+6       [32mint[m [01mmain[m[31m()[m [31m{[m
+7           [32mint[m index [31m=[m [35m0[m[31m;[m
+8           [32mint[m i[31m;[m
+9           [32mint[m before[31m[[mSIZE[31m][m [31m=[m [31m{[m[35m10[m[31m,[m [35m10[m[31m,[m [35m10[m[31m,[m [35m10[m[31m}[m[31m;[m
+10          [32mint[m a[31m[[mSIZE[31m][m [31m=[m [31m{[m[35m0[m[31m,[m [35m0[m[31m,[m [35m0[m[31m,[m [35m0[m[31m}[m[31m;[m
+[?2004h(gdb) list
+[?2004l11          [32mint[m after[31m[[mSIZE[31m][m [31m=[m [31m{[m[35m10[m[31m,[m [35m10[m[31m,[m [35m10[m[31m,[m [35m10[m[31m}[m[31m;[m
+12      
+13          [01mprintf[m[31m([m[31m"Address of the variables:[m[35m\n[m[31m"[m[31m);[m
+14          [01;34mfor[m [31m([mindex [31m=[m [35m0[m[31m;[m index [31m<[m SIZE[31m;[m index[31m++)[m [31m{[m
+15              [01mprintf[m[31m([m[31m"%lx -> &after[%d][m[35m\n[m[31m"[m[31m,[m [31m([m[32munsigned[m [32mlong[m[31m)[m [31m&[mafter[31m[[mindex[31m],[m index[31m);[m
+16          [31m}[m
+17          [01;34mfor[m [31m([mindex [31m=[m [35m0[m[31m;[m index [31m<[m SIZE[31m;[m index[31m++)[m [31m{[m
+18              [01mprintf[m[31m([m[31m"%lx -> &a[%d][m[35m\n[m[31m"[m[31m,[m [31m([m[32munsigned[m [32mlong[m[31m)[m [31m&[ma[31m[[mindex[31m],[m index[31m);[m
+19          [31m}[m
+20          [01;34mfor[m [31m([mindex [31m=[m [35m0[m[31m;[m index [31m<[m SIZE[31m;[m index[31m++)[m [31m{[m
+[?2004h(gdb) list
+[?2004l21              [01mprintf[m[31m([m[31m"%lx -> &before[%d][m[35m\n[m[31m"[m[31m,[m [31m([m[32munsigned[m [32mlong[m[31m)[m [31m&[mbefore[31m[[mindex[31m],[m index[31m);[m
+22          [31m}[m
+23          [01mprintf[m[31m([m[31m"%lx -> &i[m[35m\n[m[31m"[m[31m,[m [31m([m[32munsigned[m [32mlong[m[31m)&[mi[31m);[m
+24          [01mprintf[m[31m([m[31m"%lx -> &index[m[35m\n[m[31m"[m[31m,[m [31m([m[32munsigned[m [32mlong[m[31m)&[mindex[31m);[m
+25          [01mprintf[m[31m([m[31m"[m[35m\n[m[31m"[m[31m);[m
+26      
+27      
+28          [01mprintf[m[31m([m[31m"Initial values:[m[35m\n[m[31m"[m[31m);[m
+29          [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+30          [01mprintf[m[31m([m[31m"before = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m before[31m[[m[35m0[m[31m],[m before[31m[[m[35m1[m[31m],[m before[31m[[m[35m2[m[31m],[m before[31m[[m[35m3[m[31m]);[m
+[?2004h(gdb) list
+[?2004l31          [01mprintf[m[31m([m[31m"a = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m a[31m[[m[35m0[m[31m],[m a[31m[[m[35m1[m[31m],[m a[31m[[m[35m2[m[31m],[m a[31m[[m[35m3[m[31m]);[m
+32          [01mprintf[m[31m([m[31m"after = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m after[31m[[m[35m0[m[31m],[m after[31m[[m[35m1[m[31m],[m after[31m[[m[35m2[m[31m],[m after[31m[[m[35m3[m[31m]);[m
+33          [01mprintf[m[31m([m[31m"[m[35m\n[m[31m"[m[31m);[m
+34      
+35      
+36          [01;34mfor[m [31m([mi [31m=[m [35m0[m[31m;[m i [31m<[m OVERFLOW[31m;[m i[31m++)[m [31m{[m
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+39              [01mprintf[m[31m([m[31m"before = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m before[31m[[m[35m0[m[31m],[m before[31m[[m[35m1[m[31m],[m before[31m[[m[35m2[m[31m],[m before[31m[[m[35m3[m[31m]);[m
+40              [01mprintf[m[31m([m[31m"a = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m a[31m[[m[35m0[m[31m],[m a[31m[[m[35m1[m[31m],[m a[31m[[m[35m2[m[31m],[m a[31m[[m[35m3[m[31m]);[m
+[?2004h(gdb) list
+[?2004l41              [01mprintf[m[31m([m[31m"after = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m after[31m[[m[35m0[m[31m],[m after[31m[[m[35m1[m[31m],[m after[31m[[m[35m2[m[31m],[m after[31m[[m[35m3[m[31m]);[m
+42          [31m}[m
+43      
+44          [01;34mreturn[m [35m0[m[31m;[m
+45      [31m}[m
+[?2004h(gdb) break 36[K4
+[?2004lBreakpoint 2 at [34m0x5555555553ed[m: file [32moverflow.c[m, line 36.
+[?2004h(gdb) break 33
+[?2004lBreakpoint 3 at [34m0x5555555553e3[m: file [32moverflow.c[m, line 33.
+[?2004h(gdb) break 37
+[?2004lBreakpoint 4 at [34m0x5555555553f9[m: file [32moverflow.c[m, line 37.
+[?2004h(gdb) run
+[?2004l[?2004hThe program being debugged has been started already.
+Start it from the beginning? (y or n) y[Kn
+[?2004lProgram not restarted.
+[?2004h(gdb) continue
+[?2004lContinuing.
+Address of the variables:
+7fffffffe900 -> &after[0]
+7fffffffe904 -> &after[1]
+7fffffffe908 -> &after[2]
+7fffffffe90c -> &after[3]
+7fffffffe8f0 -> &a[0]
+7fffffffe8f4 -> &a[1]
+7fffffffe8f8 -> &a[2]
+7fffffffe8fc -> &a[3]
+7fffffffe8e0 -> &before[0]
+7fffffffe8e4 -> &before[1]
+7fffffffe8e8 -> &before[2]
+7fffffffe8ec -> &before[3]
+7fffffffe8dc -> &i
+7fffffffe8d8 -> &index
+
+Initial values:
+i = 32767
+before = {10, 10, 10, 10}
+a = {0, 0, 0, 0}
+after = {10, 10, 10, 10}
+
+Breakpoint 3, [33mmain[m () at [32moverflow.c[m:33
+33          [01mprintf[m[31m([m[31m"[m[35m\n[m[31m"[m[31m);[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) info breakpoints
+[?2004lNum     Type           Disp Enb Address            What
+1       breakpoint     keep y   [34m0x00005555555551b5[m in [33mmain[m at [32moverflow.c[m:6
+        breakpoint already hit 1 time
+2       breakpoint     keep y   [34m0x00005555555553ed[m in [33mmain[m at [32moverflow.c[m:36
+3       breakpoint     keep y   [34m0x00005555555553e3[m in [33mmain[m at [32moverflow.c[m:33
+        breakpoint already hit 1 time
+4       breakpoint     keep y   [34m0x00005555555553f9[m in [33mmain[m at [32moverflow.c[m:37
+[?2004h(gdb) list 33
+[?2004l28          [01mprintf[m[31m([m[31m"Initial values:[m[35m\n[m[31m"[m[31m);[m
+29          [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+30          [01mprintf[m[31m([m[31m"before = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m before[31m[[m[35m0[m[31m],[m before[31m[[m[35m1[m[31m],[m before[31m[[m[35m2[m[31m],[m before[31m[[m[35m3[m[31m]);[m
+31          [01mprintf[m[31m([m[31m"a = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m a[31m[[m[35m0[m[31m],[m a[31m[[m[35m1[m[31m],[m a[31m[[m[35m2[m[31m],[m a[31m[[m[35m3[m[31m]);[m
+32          [01mprintf[m[31m([m[31m"after = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m after[31m[[m[35m0[m[31m],[m after[31m[[m[35m1[m[31m],[m after[31m[[m[35m2[m[31m],[m after[31m[[m[35m3[m[31m]);[m
+33          [01mprintf[m[31m([m[31m"[m[35m\n[m[31m"[m[31m);[m
+34      
+35      
+36          [01;34mfor[m [31m([mi [31m=[m [35m0[m[31m;[m i [31m<[m OVERFLOW[31m;[m i[31m++)[m [31m{[m
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+[?2004h(gdb) continue
+[?2004lContinuing.
+
+
+Breakpoint 2, [33mmain[m () at [32moverflow.c[m:36
+36          [01;34mfor[m [31m([mi [31m=[m [35m0[m[31m;[m i [31m<[m OVERFLOW[31m;[m i[31m++)[m [31m{[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) 
+[?2004lContinuing.
+
+Breakpoint 4, [33mmain[m () at [32moverflow.c[m:37
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) breakpoint 38
+[?2004lUndefined command: "breakpoint".  Try "help".
+[?2004h(gdb) break 38
+[?2004lBreakpoint 5 at [34m0x555555555411[m: file [32moverflow.c[m, line 38.
+[?2004h(gdb) continue
+[?2004lContinuing.
+
+Breakpoint 5, [33mmain[m () at [32moverflow.c[m:38
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) continue
+[?2004lContinuing.
+i = 0
+before = {10, 10, 10, 10}
+a = {0, 0, 0, 0}
+after = {10, 10, 10, 10}
+
+Breakpoint 4, [33mmain[m () at [32moverflow.c[m:37
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) 
+[?2004lContinuing.
+
+Breakpoint 5, [33mmain[m () at [32moverflow.c[m:38
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) list 38
+[?2004l33          [01mprintf[m[31m([m[31m"[m[35m\n[m[31m"[m[31m);[m
+34      
+35      
+36          [01;34mfor[m [31m([mi [31m=[m [35m0[m[31m;[m i [31m<[m OVERFLOW[31m;[m i[31m++)[m [31m{[m
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+39              [01mprintf[m[31m([m[31m"before = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m before[31m[[m[35m0[m[31m],[m before[31m[[m[35m1[m[31m],[m before[31m[[m[35m2[m[31m],[m before[31m[[m[35m3[m[31m]);[m
+40              [01mprintf[m[31m([m[31m"a = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m a[31m[[m[35m0[m[31m],[m a[31m[[m[35m1[m[31m],[m a[31m[[m[35m2[m[31m],[m a[31m[[m[35m3[m[31m]);[m
+41              [01mprintf[m[31m([m[31m"after = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m after[31m[[m[35m0[m[31m],[m after[31m[[m[35m1[m[31m],[m after[31m[[m[35m2[m[31m],[m after[31m[[m[35m3[m[31m]);[m
+42          [31m}[m
+[?2004h(gdb) break 43
+[?2004lBreakpoint 6 at [34m0x5555555554ae[m: file [32moverflow.c[m, line 44.
+[?2004h(gdb) continue
+[?2004lContinuing.
+i = 1
+before = {10, 10, 10, 10}
+a = {0, 10, 0, 0}
+after = {10, 10, 10, 10}
+
+Breakpoint 4, [33mmain[m () at [32moverflow.c[m:37
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) 
+[?2004lContinuing.
+
+Breakpoint 5, [33mmain[m () at [32moverflow.c[m:38
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) continue
+[?2004lContinuing.
+i = 2
+before = {10, 10, 10, 10}
+a = {0, 10, 20, 0}
+after = {10, 10, 10, 10}
+
+Breakpoint 4, [33mmain[m () at [32moverflow.c[m:37
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) continue
+[?2004lContinuing.
+
+Breakpoint 5, [33mmain[m () at [32moverflow.c[m:38
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) next
+[?2004li = 3
+39              [01mprintf[m[31m([m[31m"before = {%d, %d, %d, %d}[m[35m\n[m[31m"[m[31m,[m before[31m[[m[35m0[m[31m],[m before[31m[[m[35m1[m[31m],[m before[31m[[m[35m2[m[31m],[m before[31m[[m[35m3[m[31m]);[m
+1: after = {10, 10, 10, 10}
+[?2004h[?2004l[?2004h(gdb) continue[K[K[K[K[K[K[K[Kwatch[K[K[K[K[Kbreakpoint[K[K[K[K[K[K[K[K[K[Kdisplay i
+[?2004l2: i = 3
+[?2004h(gdb) ids[K[K[Kdisplay a
+[?2004l3: a = {0, 10, 20, 30}
+[?2004h(gdb) continue
+[?2004lContinuing.
+before = {10, 10, 10, 10}
+a = {0, 10, 20, 30}
+after = {10, 10, 10, 10}
+
+Breakpoint 4, [33mmain[m () at [32moverflow.c[m:37
+37              a[31m[[mi[31m][m [31m=[m i [31m*[m [35m10[m[31m;[m
+1: after = {10, 10, 10, 10}
+2: i = 4
+3: a = {0, 10, 20, 30}
+[?2004h[?2004l[?2004h(gdb) continue
+[?2004lContinuing.
+
+Breakpoint 5, [33mmain[m () at [32moverflow.c[m:38
+38              [01mprintf[m[31m([m[31m"i = %d[m[35m\n[m[31m"[m[31m,[m i[31m);[m
+1: after = {40, 10, 10, 10}
+2: i = 4
+3: a = {0, 10, 20, 30}
+[?2004h[?2004l[?2004h(gdb) next[K[K[K[K[7mprint &(after[0])[27m[C[C[C[C[C[Cprint &(after[0])
+[?2004l$1 = (int *[36m[m) [34m0x7fffffffe900[m
+[?2004h(gdb) print &(after[0])[K[K[K[K[K[K[K[K[4])
+[?2004l$2 = (int *[36m[m) [34m0x7fffffffe900[m
+[?2004h(gdb) exit
+[?2004l[?2004hA debugging session is active.
+
+        Inferior 1 [process 615] will be killed.
+
+Quit anyway? (y or n) y
+[?2004l]0;subhashv@wolf:/h/u9/c2/01/subhashv/csc209/subhashv/T6[?2004hwolf:~/csc209/subhashv/T6$ exit
+[?2004lexit
+
+Script done on 2024-02-15 20:40:22-05:00 [COMMAND_EXIT_CODE="0"]
