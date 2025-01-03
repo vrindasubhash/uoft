@@ -1,0 +1,5 @@
+python a2_headless.py \
+    --source-image-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/building.png \
+    --source-line-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_1/source.csv \
+    --destination-line-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_1/destination.csv \
+    --output-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_1/experiment1_output.png

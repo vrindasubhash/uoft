@@ -1,0 +1,10 @@
+python a2_headless.py \
+    --source-image-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_4/source.png \
+    --destination-image-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_4/destination.png \
+    --source-line-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_4/source.csv \
+    --destination-line-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_4/destination.csv \
+    --output-path /Users/vrindasubhashc/csc320/CSC320/morphing/app/a2/results/experiment_4/experiment_4_output.png \
+    --num-frames 20 \
+    --reference-solution \
+    --vectorize
+

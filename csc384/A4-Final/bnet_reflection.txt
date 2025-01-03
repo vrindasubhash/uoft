@@ -1,0 +1,11 @@
+1. Explain what the calculations above might or might not tell you about the "fairness" of your Naive Bayesian network. Explain in 50-100 words.
+The 6 calculations could show that the model might treat men and women differently when predicting salaries. For example, if men are predicted to earn more than $50K more often than women, it’s not fair. If removing gender from the model changes the predictions, it means the model relies too much on gender. This would suggest that the model may have biases because of the data it was trained on, which could make it unfair.
+
+
+
+2. Would you be willing to use your model to recommend starting salaries for employees at a firm? Why or why not? Explain in 50-100 words.
+I would not recommend using this model for determining starting salaries at a firm. It has the potential to treat people unfairly because it uses gender and other data that could reflect past inequalities. The model also doesn’t consider individual skills or job requirements, so it’s not reliable for setting fair salaries.
+
+
+
+

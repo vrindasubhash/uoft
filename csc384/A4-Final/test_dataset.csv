@@ -1,0 +1,6 @@
+Work,Education,MaritalStatus,Occupation,Relationship,Race,Gender,Country,Salary
+Private,Bachelors,Married,Professional,Husband,White,Male,North-America,>=50K
+Private,Masters,Not-Married,Professional,Wife,Asian-Pac-Islander,Female,Asia,>=50K
+Self-emp,HS-Graduate,Married,Manual Labour,Husband,White,Male,Europe,<50K
+Private,HS-Graduate,Not-Married,Service,Not-in-family,Black,Male,North-America,<50K
+Government,Bachelors,Married,Admin,Husband,White,Male,Europe,>=50K

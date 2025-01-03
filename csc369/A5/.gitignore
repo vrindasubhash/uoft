@@ -1,0 +1,9 @@
+vsfs
+mkfs.vsfs
+*.d
+*.o
+*.exe
+*.img
+*.disk
+*~
+tester*

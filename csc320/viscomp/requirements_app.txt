@@ -1,0 +1,6 @@
+PyOpenGL
+git+https://github.com/drufat/triangle
+git+https://github.com/glumpy/glumpy
+freetype-py
+imgui
+glfw
